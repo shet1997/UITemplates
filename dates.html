@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <style type="text/css">
+.ui-datepicker {
+    background: pink;
+    border: 1px solid #555;
+    color: red;
+}
+</style>
+</head>
+<body>
+	<label>Date</label>
+<input type="text" name="dates" id="dates">
+<script>
+	$("#dates").datepicker({
+		dateFormat: 'dd-mm-yy',
+	});
+	$("#dates").datepicker().datepicker('setDate', 'today');
+	
+</script>
+</body>
+</html>

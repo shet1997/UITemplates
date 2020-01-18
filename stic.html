@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+  <style type="text/css">
+  	.hellos {
+  		position: fixed;
+  		top: 0;
+  		/*left: 0;*/
+  		height: 40px;
+  		/*z-index: 1000;*/
+  		width: 100%;
+  	}
+  </style>
+</head>
+<body>
+<nav class="navbar navbar-expand-sm bg-light hellos">
+
+  <!-- Links -->
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="#about" onclick="sticks(this)">about</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#home" onclick="sticks(this)">home</a>
+    </li>
+  </ul>
+
+</nav>
+<div style="margin-top: 40px;">
+	<div id="about" style="height: 800px;">
+		example1
+	</div>
+	<div id="home" style="height: 1000px;">
+		example2
+	</div>	
+</div>
+	<script type="text/javascript">
+		
+		function sticks(dis) {		
+			var target = $(dis).attr('href');
+			console.log(target)
+			if(target.length) {
+				// event.preventDefault();	
+				$('html, body').animate({scrollTop: $(target).offset().top-40}, 1000);
+			}
+		}
+
+	</script>
+</body>		
+</html>

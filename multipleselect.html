@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.11/css/bootstrap-select.min.css">
+</head>
+<body>
+
+	<select class="names" multiple="multiple" id="namebox">
+		
+	</select>
+
+	<select class="courses d-none" multiple="multiple" id="coursesbox">
+		
+	</select>
+
+	<select class="specialization d-none" multiple="multiple" id="splbox">
+		
+	</select>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.11/js/bootstrap-select.min.js"></script>
+
+	<script>
+
+		$(document).ready(function() {
+			$.getJSON("subjects.json", function(results){
+
+				var options = '';
+				var courseoptions = '';
+				var sploptions = '';
+
+				$.each(results, function(i,v){
+					// console.log(results)
+					// console.log(i)
+					   // console.log(v)
+					$.each(v, function(id,d) {
+						// console.log(id)
+						// console.log(d.courses)
+						// console.log(d)
+						options	+= "<option value="+d.shortname+">"+d.fullname+"</option>";
+						// console.log(d.courses)
+						
+						$.each(d.courses, function(ids,e){
+							// console.log(ids)
+				  			// console.log(e)
+				  	    	console.log(e.specialisation)
+				   			courseoptions	+= "<option value="+e.shortname+">"+e.fullname+"</option>";
+
+				   			$.each(e.specialisation, function(ides,f) {
+				   			// console.log(ides)
+				   			// console.log(f)
+				   			sploptions += "<option value="+f.shortname+">"+f.fullname+"</option>"
+
+				   			});
+
+				   		});
+
+					});
+
+				});
+
+
+				$(".names").append(options);
+				$(".names").selectpicker();
+				$(".courses").append(courseoptions);	
+				$(".courses").selectpicker();
+				$(".specialization").append(sploptions);
+				$(".specialization").selectpicker();
+			});
+ 
+		$('#namebox').on('change', function() {
+  			     var selections = $(this).val().length;
+  			     if(selections != 0) {
+  			     	$('.courses').removeClass('d-none');
+  			     }
+  			     else
+  			     {
+  			     	$('.courses').addClass('d-none');
+  			     }
+			});
+
+		$("#coursesbox").on('change', function(){
+			var selecting = $(this).val().length;
+			if(selecting != 0) {
+				$('.specialization').removeClass('d-none');
+			}
+			else{
+				$('.specialization').addClass('d-none');
+			}
+		});
+
+		});
+
+    
+	</script>
+</body>
+</html>

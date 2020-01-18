@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<div style="height: 1500px;">
+		<p>first example</p>
+	</div>
+	<div style="height: 1000px;" id="abcd">second example</div>
+	<a href="efgh.html#abc">example</a>
+	<a href="#abcd">example</a>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+	<script type="text/javascript">
+
+			$("a[href^='#']").click(function() {
+
+			var target = this.getAttribute('href');
+			if(target.length) {
+
+				$('html, body').animate({scrollTop: $(target).offset().top}, 2000);
+				console.log(window.location.href);
+
+			}
+
+		});
+
+
+
+		
+
+
+
+		// $("a[href='#']").click(function() {
+		// 	$('html, body').animate({scrollTop: 0}, 1000);
+		// })
+
+
+		// $("a[href='#abcd']").click(function() {
+		// 	var target	= this.getAttribute('href');
+		// 	if(target.length){
+		// 		$('html, body').animate({scrollTop: $(target).offset().top}, 1000);
+		// 	}
+			
+		// });
+
+
+		// function example(dis) {
+		// var target = $(dis).attr('href');
+		// if(target.length) {
+		// 	$('html, body').animate({scrollTop: $(target).offset().top}, 1000);
+		// }
+		// }
+
+
+		  // $("a").on('click', function(event) {
+
+		  //   if (this.hash !== "") {
+		  //     // Prevent default anchor click behavior
+		  //     event.preventDefault();
+
+		  //     var hash = this.hash;
+
+		  //     $('html, body').animate({
+		  //       scrollTop: $(hash).offset().top
+		  //     }, 800, function(){
+
+		  //       // Add hash (#) to URL when done scrolling (default click behavior)
+		  //       window.location.hash = hash;
+		  //     });
+		  //   }
+		  // });
+
+
+
+	</script>
+</body>
+</html>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.11/css/bootstrap-select.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">  
+</head>
+<body>
+
+<select class="country" id="country">
+	
+</select>
+
+
+
+<div class="container">
+<table class="table table-striped" id="table">
+	<thead>
+		<tr>
+			<th>Sr NO</th>
+			<th>Player Name</th>
+			<th>Country</th>
+		</tr>
+	</thead>
+	<tbody>
+		
+	</tbody>
+</table>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.11/js/bootstrap-select.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+
+<script>
+	$(document).ready(function(){
+		$.getJSON("countries.json", function(result){
+
+			var options = "";
+			// console.log(result)
+			$.each(result, function(i,v){
+				// console.log(i)
+				// console.log(v)
+			options	+= "<option value="+i+">"+v+"</option>";
+			});
+			
+			$(".country").append(options);
+			$(".country").selectpicker();
+		});
+
+		
+		$.getJSON("players.json", function(results){
+			var info = [];
+			var india = [];
+			var players= results.players;
+			var rows = "";
+			
+			$.each(players, function(a,b){
+
+				var row = "";
+				var arry = [];
+
+				 row += '<tr><td>'+b.sr_no+'</td><td>'+b.player_name+'</td><td>'+b.country+'</td></tr>';
+
+					arry[0] = b.sr_no;
+					arry[1] = b.player_name;
+					arry[2] = b.country;
+
+					if(b.country == "India") {
+						india.push(arry);
+						// console.log(india);
+					}	
+
+				info.push(arry);
+				console.log(info)
+				rows += row;	   
+			});
+			
+				
+				$('#table tbody').append(rows);
+		});
+
+		setTimeout(function() {
+
+      	var table =	$('#table').DataTable();
+      	$("#country").on('change', function(){
+			table.search( this.value ).draw();			
+
+		});
+
+		}, 1000);
+
+
+	
+
+		// $(window).on('scroll', function() {
+		//   $("body").css("left", -$(window).scrollTop());
+		// });
+
+	});
+
+
+</script>
+
+
+</body>
+</html>

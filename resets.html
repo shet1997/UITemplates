@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.11/css/bootstrap-select.min.css">
+	  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+	  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<select id="first_select">
+	<option value="1">india</option>
+	<option value="2">SA</option>
+	<option value="3">NZ</option>
+</select>
+
+<select id="second_select">
+	<option value="1">india</option>
+	<option value="2">SA</option>
+	<option value="3">NZ</option>
+</select>
+
+<input type="checkbox" name="third_select" id="third_select" value="something">
+
+<div>
+	<button id="reset" value="reset">reset</button>
+</div>
+
+<div id="result">
+	
+</div>
+
+<script>
+
+var counter = 0;
+
+ 	$('#third_select').on('click', function(){
+	if(this.checked) {
+		counter++;
+		// console.log(counter)
+	}else{
+		counter--;
+		// console.log(counter)
+	}
+	count();
+});
+
+$( "#first_select").on('click', function(){
+	if($("#first_select option:selected")) {
+		counter++;
+		// console.log(counter)
+	}else{
+		counter--;
+		// console.log(counter)
+	}
+	count();
+});
+
+$( "#second_select").on('click', function(){
+	if($("#second_select option:selected")) {
+		counter++;
+		// console.log(counter)
+	}else{
+		counter--;
+		// console.log(counter)
+	}
+	count();
+});
+
+
+
+$("#reset").on('click', function(){
+	 counter = 0;
+	$("#first_select")[0].selectedIndex = 0;
+	$("#second_select")[0].selectedIndex = 0;
+	$("#third_select").prop("checked", false);
+	// console.log(counter);
+count();
+});
+
+function count() {
+	$("#result").text(counter);
+}
+
+
+
+</script>
+
+</body>
+</html>

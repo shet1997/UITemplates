@@ -1,0 +1,132 @@
+{
+	"players": [
+		{
+		
+			"sr_no":"1",
+			"player_name": "Rahul Dravid",
+			"country": "India"
+		},
+		{
+			"sr_no":"2",
+			"player_name": "JP Duminy",
+			"country": "South Africa"
+		},
+		{
+			"sr_no":"3",
+			"player_name": "Anil Kumble",
+			"country": "India"
+		},
+		{
+			"sr_no":"4",
+			"player_name": "Steve Smith",
+			"country": "Australlia"
+		},
+		{
+			"sr_no":"5",
+			"player_name": "Kangiso Rabada",
+			"country": "South Africa"
+		},
+		{
+			"sr_no":"6",
+			"player_name": "David Warner",
+			"country": "Australlia"
+		},
+		{
+			"sr_no":"7",
+			"player_name": "Sachin T",
+			"country": "India"
+		},
+		{
+			"sr_no":"8",
+			"player_name": "Sean Williams",
+			"country": "Zimbabwe"
+		},
+		{
+			"sr_no":"9",
+			"player_name": "Tim Paine",
+			"country": "Australlia"
+		},
+		{
+			"sr_no":"10",
+			"player_name": "Virat Kohli",
+			"country": "India"
+		},
+		{
+			"sr_no":"11",
+			"player_name": "Ryan Burl",
+			"country": "Zimbabwe"
+		},
+		{
+			"sr_no":"12",
+			"player_name": "Solomon Mire",
+			"country": "Zimbabwe"
+		},
+		{
+			"sr_no":"13",
+			"player_name": "Nathan Lyon",
+			"country": "India"
+		},
+		{
+			"sr_no":"14",
+			"player_name": "Rahul Dravid",
+			"country": "Australlia"
+		},
+		{
+			"sr_no":"15",
+			"player_name": "Lasith Malinga",
+			"country": "Sri Lanka"
+		},
+		{
+			"sr_no":"16",
+			"player_name": "Wakil Jalai",
+			"country": "Sweeden"
+		},
+		{
+			"sr_no":"17",
+			"player_name": "David Miller",
+			"country": "South Africa"
+		},
+		{
+			"sr_no":"18",
+			"player_name": "Angelo Mathews",
+			"country": "Sri Lanka"
+		},
+		{
+			"sr_no":"19",
+			"player_name": "Peeter Moor",
+			"country": "Zimbabwe"
+		},
+		{
+			"sr_no":"20",
+			"player_name": "Rahul Dravid",
+			"country": "India"
+		},
+		{
+			"sr_no":"21",
+			"player_name": "Aazam Khalil",
+			"country": "Sweeden"
+		},
+		{
+			"sr_no":"22",
+			"player_name": "Pat Cummins",
+			"country": "Australlia"
+		},
+		{
+			"sr_no":"23",
+			"player_name": "Thisara Perera",
+			"country": "Sri Lanka"
+		},
+		{
+			"sr_no":"24",
+			"player_name": "Tariq Zuwak",
+			"country": "Sweeden"
+		},
+		{
+			"sr_no":"25",
+			"player_name": "Lungi Ngidi",
+			"country": "South Africa"
+		}
+		
+
+	]
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+<body>
+
+	<div class="container"> 
+	<div id="myCarousel" class="carousel slide" data-ride="carousel">
+		<ol class="carousel-indicators">
+		</ol>
+		<div class="carousel-inner">
+		</div>
+		<a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
+		<span class="carousel-control-prev-icon"></span>
+		</a>
+		<a class="carousel-control-next" href="#myCarousel" data-slide="next">
+		<span class="carousel-control-next-icon"></span>
+		</a>
+		</div>
+	</div>
+
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+	
+	<script>
+		$(document).ready(function(){
+			$.getJSON("partner_school.json", function(result){
+				// console.log(result)
+				var image = '';
+				var lis = '';
+				$.each(result, function(id, data){
+					// console.log(data)
+					if(id=='0'){
+					
+						lis += "<li data-target='#myCarousel' class='active' data-slide-to="+id+"></li>";
+						image += "<div class='carousel-item active'><img src="+data.logo+"> </div>";
+					} else {
+						lis += "<li data-target='#myCarousel' data-slide-to="+id+"></li>";
+						image += "<div class='carousel-item'><img src="+data.logo+"> </div>";
+					}
+				});
+				$(".carousel-indicators").append(lis);
+				$(".carousel-inner").append(image);
+			});
+		});
+	</script>
+	
+</body>
+</html>

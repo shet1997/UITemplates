@@ -1,0 +1,1977 @@
+{
+    "study_programs": [{
+        "shortname": "artsnhumanities",
+        "fullname": "Arts & Humanities",
+        "source": ["tu"],
+        "courses": [{
+            "shortname": "architecture",
+            "fullname": "Architecture",
+            "specialisation": [
+                {"shortname": "Architecture","fullname": "Architecture"},
+                {"shortname": "Construction","fullname": "Construction"},
+                {"shortname": "Design","fullname": "Design"},
+                {"shortname": "Engineering","fullname": "Engineering"},
+                {"shortname": "Interior","fullname": "Interior"},
+                {"shortname": "Landscape","fullname": "Landscape"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Planning","fullname": "Planning"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Surveying","fullname": "Surveying"},
+                {"shortname": "Technology","fullname": "Technology"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "art_design",
+            "fullname": "Art & Design",
+            "specialisation": [
+                {"shortname": "3D","fullname": "3D"},
+                {"shortname": "Advertising","fullname": "Advertising"},
+                {"shortname": "Animation","fullname": "Animation"},
+                {"shortname": "Architecture","fullname": "Architecture"},
+                {"shortname": "Art and Design","fullname": "Art and Design"},
+                {"shortname": "Communication","fullname": "Communication"},
+                {"shortname": "Costume","fullname": "Costume"},
+                {"shortname": "Creative","fullname": "Creative"},
+                {"shortname": "Digital","fullname": "Digital"},
+                {"shortname": "Engineering","fullname": "Engineering"},
+                {"shortname": "Fashion","fullname": "Fashion"},
+                {"shortname": "Fine Art","fullname": "Fine Art"},
+                {"shortname": "Game","fullname": "Game"},
+                {"shortname": "Graphics","fullname": "Graphics"},
+                {"shortname": "History","fullname": "History"},
+                {"shortname": "Illustration","fullname": "Illustration"},
+                {"shortname": "Industrial","fullname": "Industrial"},
+                {"shortname": "Interior","fullname": "Interior"},
+                {"shortname": "Modelling","fullname": "Modelling"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Product","fullname": "Product"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Sound","fullname": "Sound"},
+                {"shortname": "Studio","fullname": "Studio"},
+                {"shortname": "Textile","fullname": "Textile"},
+                {"shortname": "Theatre","fullname": "Theatre"},
+                {"shortname": "Theory","fullname": "Theory"},
+                {"shortname": "Urban","fullname": "Urban"},
+                {"shortname": "Visual","fullname": "Visual"},
+                {"shortname": "Web","fullname": "Web"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "built_environment",
+            "fullname": "Built Environment",
+            "specialisation": [
+                {"shortname": "Built","fullname": "Built"},
+                {"shortname": "Construction","fullname": "Construction"},
+                {"shortname": "Engineering","fullname": "Engineering"},
+                {"shortname": "Environment","fullname": "Environment"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Real Estate","fullname": "Real Estate"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "classics_ancient_history",
+            "fullname": "Classics & Ancient History",
+            "specialisation": [
+                {"shortname": "Archaeology","fullname": "Archaeology"},
+                {"shortname": "Classics","fullname": "Classics"},
+                {"shortname": "Economics","fullname": "Economics"},
+                {"shortname": "English","fullname": "English"},
+                {"shortname": "History","fullname": "History"},
+                {"shortname": "Medieval","fullname": "Medieval"},
+                {"shortname": "Modern","fullname": "Modern"},
+                {"shortname": "Modern Languages","fullname": "Modern Languages"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Philosophy","fullname": "Philosophy"},
+                {"shortname": "Politics","fullname": "Politics"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "english_language_and_literature",
+            "fullname": "English Language & Literature",
+            "specialisation": [
+                {"shortname": "American","fullname": "American"},
+                {"shortname": "Business","fullname": "Business"},
+                {"shortname": "Classical","fullname": "Classical"},
+                {"shortname": "Communications","fullname": "Communications"},
+                {"shortname": "Comparative","fullname": "Comparative"},
+                {"shortname": "Creative","fullname": "Creative"},
+                {"shortname": "Drama","fullname": "Drama"},
+                {"shortname": "English Studies","fullname": "English Studies"},
+                {"shortname": "Film","fullname": "Film"},
+                {"shortname": "History","fullname": "History"},
+                {"shortname": "Law","fullname": "Law"},
+                {"shortname": "Linguistics","fullname": "Linguistics"},
+                {"shortname": "Media","fullname": "Media"},
+                {"shortname": "Modern Languages","fullname": "Modern Languages"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Philosophy","fullname": "Philosophy"},
+                {"shortname": "Politics","fullname": "Politics"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Scottish","fullname": "Scottish"},
+                {"shortname": "Speech Therapy","fullname": "Speech Therapy"},
+                {"shortname": "Teaching","fullname": "Teaching"},
+                {"shortname": "Writing","fullname": "Writing"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "history_and_archaeology",
+            "fullname": "History and Archaeology",
+            "specialisation": [
+                {"shortname": "American","fullname": "American"},
+                {"shortname": "Ancient History","fullname": "Ancient History"},
+                {"shortname": "Archaeology","fullname": "Archaeology"},
+                {"shortname": "Modern","fullname": "Modern"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "linguistics",
+            "fullname": "Linguistics",
+            "specialisation": [
+                {"shortname": "Applied","fullname": "Applied"},
+                {"shortname": "Language and Linguistics","fullname": "Language and Linguistics"},
+                {"shortname": "Modern Languages","fullname": "Modern Languages"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Philosophy","fullname": "Philosophy"},
+                {"shortname": "Psychology","fullname": "Psychology"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Translation","fullname": "Translation"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "modern_languages",
+            "fullname": "Modern Languages",
+            "specialisation": [
+                {"shortname": "Arabic","fullname": "Arabic"},
+                {"shortname": "Asia Pacific","fullname": "Asia Pacific"},
+                {"shortname": "Australian Studies","fullname": "Australian Studies"},
+                {"shortname": "Business","fullname": "Business"},
+                {"shortname": "Chinese","fullname": "Chinese"},
+                {"shortname": "Classical","fullname": "Classical"},
+                {"shortname": "Eastern","fullname": "Eastern"},
+                {"shortname": "English","fullname": "English"},
+                {"shortname": "French","fullname": "French"},
+                {"shortname": "German","fullname": "German"},
+                {"shortname": "Greek","fullname": "Greek"},
+                {"shortname": "Hispanic","fullname": "Hispanic"},
+                {"shortname": "Indonesian","fullname": "Indonesian"},
+                {"shortname": "Italian","fullname": "Italian"},
+                {"shortname": "Japanese","fullname": "Japanese"},
+                {"shortname": "Korean","fullname": "Korean"},
+                {"shortname": "Latin American","fullname": "Latin American"},
+                {"shortname": "Literature","fullname": "Literature"},
+                {"shortname": "Modern Languages","fullname": "Modern Languages"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Portuguese","fullname": "Portuguese"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Russian","fullname": "Russian"},
+                {"shortname": "Spanish","fullname": "Spanish"},
+                {"shortname": "Translation","fullname": "Translation"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "performing_arts",
+            "fullname": "Performing Arts",
+            "specialisation": [
+                {"shortname": "Acting","fullname": "Acting"},
+                {"shortname": "Dance","fullname": "Dance"},
+                {"shortname": "Digital","fullname": "Digital"},
+                {"shortname": "Drama","fullname": "Drama"},
+                {"shortname": "Film","fullname": "Film"},
+                {"shortname": "Liberal","fullname": "Liberal"},
+                {"shortname": "Media","fullname": "Media"},
+                {"shortname": "Music","fullname": "Music"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Performing Arts","fullname": "Performing Arts"},
+                {"shortname": "Photography","fullname": "Photography"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Theatre","fullname": "Theatre"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "philosophy",
+            "fullname": "Philosophy",
+            "specialisation": [
+                {"shortname": "Classical","fullname": "Classical"},
+                {"shortname": "Film","fullname": "Film"},
+                {"shortname": "French","fullname": "French"},
+                {"shortname": "German","fullname": "German"},
+                {"shortname": "Law","fullname": "Law"},
+                {"shortname": "Management","fullname": "Management"},
+                {"shortname": "Mathematics","fullname": "Mathematics"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Philosophy","fullname": "Philosophy"},
+                {"shortname": "Physics","fullname": "Physics"},
+                {"shortname": "Politics","fullname": "Politics"},
+                {"shortname": "Psychology","fullname": "Psychology"},
+                {"shortname": "Religion","fullname": "Religion"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Sociology","fullname": "Sociology"},
+                {"shortname": "Theology","fullname": "Theology"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "urban_planning",
+            "fullname": "Urban Planning",
+            "specialisation": [
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Planning","fullname": "Planning"},
+                {"shortname": "Property and Real Estate","fullname": "Property and Real Estate"},
+                {"shortname": "Urban","fullname": "Urban"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        }
+    ]
+},{
+    "shortname": "engineeringntechnology",
+    "fullname": "Engineering & Technology",
+    "source": ["tu"],
+    "courses": [{
+        "shortname": "computer_science_and_information_systems",
+        "fullname": "Computer Science & Information Systems",
+        "specialisation": [
+            {"shortname": "Advanced","fullname": "Advanced"},
+            {"shortname": "Animation","fullname": "Animation"},
+            {"shortname": "Applied","fullname": "Applied"},
+            {"shortname": "Artificial Intelligence","fullname": "Artificial Intelligence"},
+            {"shortname": "Computer Games","fullname": "Computer Games"},
+            {"shortname": "Computer Science","fullname": "Computer Science"},
+            {"shortname": "Computing and Information Systems","fullname": "Computing and Information Systems"},
+            {"shortname": "Data","fullname": "Data"},
+            {"shortname": "Data Science","fullname": "Data Science"},
+            {"shortname": "Electronics","fullname": "Electronics"},
+            {"shortname": "Engineering","fullname": "Engineering"},
+            {"shortname": "Environmental","fullname": "Environmental"},
+            {"shortname": "Geographical Information Systems","fullname": "Geographical Information Systems"},
+            {"shortname": "Information and Communication","fullname": "Information and Communication"},
+            {"shortname": "Information Systems","fullname": "Information Systems"},
+            {"shortname": "Information Technology","fullname": "Information Technology"},
+            {"shortname": "Management","fullname": "Management"},
+            {"shortname": "Materials","fullname": "Materials"},
+            {"shortname": "Mathematics","fullname": "Mathematics"},
+            {"shortname": "Medical","fullname": "Medical"},
+            {"shortname": "Networks","fullname": "Networks"},
+            {"shortname": "Oil and Gas","fullname": "Oil and Gas"},
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "Paramedical","fullname": "Paramedical"},
+            {"shortname": "Physics","fullname": "Physics"},
+            {"shortname": "Research","fullname": "Research"},
+            {"shortname": "Robotics","fullname": "Robotics"},
+            {"shortname": "Security","fullname": "Security"},
+            {"shortname": "Software","fullname": "Software"},
+            {"shortname": "Systems","fullname": "Systems"},
+            {"shortname": "Transport","fullname": "Transport"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    },{
+        "shortname": "engineering_aeronautical",
+        "fullname": "Engineering - Aeronautical",
+        "specialisation": [
+            {"shortname": "Aeronautical and Aerospace","fullname": "Aeronautical and Aerospace"},
+            {"shortname": "Aircraft","fullname": "Aircraft"},
+            {"shortname": "Aviation","fullname": "Aviation"},
+            {"shortname": "Naval","fullname": "Naval"},
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "Research","fullname": "Research"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    },{
+        "shortname": "engineering_chemical",
+        "fullname": "Engineering - Chemical",
+        "specialisation": [
+            {"shortname": "Advanced","fullname": "Advanced"},
+            {"shortname": "Chemical Engineering","fullname": "Chemical Engineering"},
+            {"shortname": "Chemistry","fullname": "Chemistry"},
+            {"shortname": "Energy","fullname": "Energy"},
+            {"shortname": "Environmental","fullname": "Environmental"},
+            {"shortname": "Materials","fullname": "Materials"},
+            {"shortname": "Nuclear","fullname": "Nuclear"},
+            {"shortname": "Oil and Gas","fullname": "Oil and Gas"},
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "Petroleum","fullname": "Petroleum"},
+            {"shortname": "Physics","fullname": "Physics"},
+            {"shortname": "Process","fullname": "Process"},
+            {"shortname": "Research","fullname": "Research"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    },{
+        "shortname": "engineering_civil_and_structural",
+        "fullname": "Engineering - Civil & Structural",
+        "specialisation": [
+            {"shortname": "Architectural","fullname": "Architectural"},
+            {"shortname": "Building","fullname": "Building"},
+            {"shortname": "Civil and Structural","fullname": "Civil and Structural"},
+            {"shortname": "Civil Engineering","fullname": "Civil Engineering"},
+            {"shortname": "Construction","fullname": "Construction"},
+            {"shortname": "Energy","fullname": "Energy"},
+            {"shortname": "Environmental","fullname": "Environmental"},
+            {"shortname": "Fire Safety","fullname": "Fire Safety"},
+            {"shortname": "Infrastructure","fullname": "Infrastructure"},
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "Research","fullname": "Research"},
+            {"shortname": "Structural Engineering","fullname": "Structural Engineering"},
+            {"shortname": "Sustainable","fullname": "Sustainable"},
+            {"shortname": "Transport","fullname": "Transport"},
+            {"shortname": "Water","fullname": "Water"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    },{
+        "shortname": "engineering_electrical_and_electronic",
+        "fullname": "Engineering - Electrical & Electronic",
+        "specialisation": [
+            {"shortname": "Advanced","fullname": "Advanced"},
+            {"shortname": "Audio","fullname": "Audio"},
+            {"shortname": "Biomedical","fullname": "Biomedical"},
+            {"shortname": "Communications","fullname": "Communications"},
+            {"shortname": "Computer","fullname": "Computer"},
+            {"shortname": "Electrical and Electronic Engineering","fullname": "Electrical and Electronic Engineering"},
+            {"shortname": "Electrical Engineering","fullname": "Electrical Engineering"},
+            {"shortname": "Electronic Engineering","fullname": "Electronic Engineering"},
+            {"shortname": "Energy","fullname": "Energy"},
+            {"shortname": "Mechanical","fullname": "Mechanical"},
+            {"shortname": "Mechatronics","fullname": "Mechatronics"},
+            {"shortname": "Nanotechnology","fullname": "Nanotechnology"},
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "Power","fullname": "Power"},
+            {"shortname": "Research","fullname": "Research"},
+            {"shortname": "Robotics","fullname": "Robotics"},
+            {"shortname": "Software","fullname": "Software"},
+            {"shortname": "Systems","fullname": "Systems"},
+            {"shortname": "Telecommunications","fullname": "Telecommunications"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    },{
+        "shortname": "engineering_general",
+        "fullname": "Engineering - General",
+        "specialisation": [
+            {"shortname": "Advanced","fullname": "Advanced"},
+            {"shortname": "Audio","fullname": "Audio"},
+            {"shortname": "Communications","fullname": "Communications"},
+            {"shortname": "Computer","fullname": "Computer"},
+            {"shortname": "Mathematics","fullname": "Mathematics"},
+            {"shortname": "Mechatronics","fullname": "Mechatronics"},
+            {"shortname": "Motorsport","fullname": "Motorsport"},
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "Petroleum","fullname": "Petroleum"},
+            {"shortname": "Railway","fullname": "Railway"},
+            {"shortname": "Research","fullname": "Research"},
+            {"shortname": "Robotics","fullname": "Robotics"},
+            {"shortname": "Sports","fullname": "Sports"},
+            {"shortname": "Telecommunications","fullname": "Telecommunications"},
+            {"shortname": "Transport","fullname": "Transport"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    },{
+        "shortname": "engineering_management",
+        "fullname": "Engineering Management",
+        "specialisation": [
+            {"shortname": "Advanced","fullname": "Advanced"},
+            {"shortname": "Aviation","fullname": "Aviation"},
+            {"shortname": "Business","fullname": "Business"},
+            {"shortname": "Construction","fullname": "Construction"},
+            {"shortname": "Engineering Management","fullname": "Engineering Management"},
+            {"shortname": "Environmental","fullname": "Environmental"},
+            {"shortname": "Manufacturing","fullname": "Manufacturing"},
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "Project","fullname": "Project"},
+            {"shortname": "Sustainable","fullname": "Sustainable"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    },{
+        "shortname": "engineering_manufacturing_production",
+        "fullname": "Engineering - Manufacturing",
+        "specialisation": [
+            {"shortname": "Advanced","fullname": "Advanced"},
+            {"shortname": "Audio","fullname": "Audio"},
+            {"shortname": "Film","fullname": "Film"},
+            {"shortname": "Industrial","fullname": "Industrial"},
+            {"shortname": "Live Sound and Event","fullname": "Live Sound and Event"},
+            {"shortname": "Manufacturing","fullname": "Manufacturing"},
+            {"shortname": "Media","fullname": "Media"},
+            {"shortname": "Music","fullname": "Music"},
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "Radio","fullname": "Radio"},
+            {"shortname": "Robotics","fullname": "Robotics"},
+            {"shortname": "Television","fullname": "Television"},
+            {"shortname": "Web","fullname": "Web"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    },{
+        "shortname": "engineering_mechanical",
+        "fullname": "Engineering - Mechanical",
+        "specialisation": [
+            {"shortname": "Advanced","fullname": "Advanced"},
+            {"shortname": "Automotive","fullname": "Automotive"},
+            {"shortname": "Aviation","fullname": "Aviation"},
+            {"shortname": "Building","fullname": "Building"},
+            {"shortname": "Electrical","fullname": "Electrical"},
+            {"shortname": "Energy","fullname": "Energy"},
+            {"shortname": "Management","fullname": "Management"},
+            {"shortname": "Manufacturing","fullname": "Manufacturing"},
+            {"shortname": "Marine","fullname": "Marine"},
+            {"shortname": "Materials","fullname": "Materials"},
+            {"shortname": "Mechanical Engineering","fullname": "Mechanical Engineering"},
+            {"shortname": "Mechatronic","fullname": "Mechatronic"},
+            {"shortname": "Medical","fullname": "Medical"},
+            {"shortname": "Motorsport","fullname": "Motorsport"},
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "Research","fullname": "Research"},
+            {"shortname": "Robotics","fullname": "Robotics"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    },{
+        "shortname": "engineering_mineral_mining",
+        "fullname": "Engineering - Mineral & Mining",
+        "specialisation": [
+            {"shortname": "Civil","fullname": "Civil"},
+            {"shortname": "Corrosion","fullname": "Corrosion"},
+            {"shortname": "Energy","fullname": "Energy"},
+            {"shortname": "Metallurgical","fullname": "Metallurgical"},
+            {"shortname": "Mineral","fullname": "Mineral"},
+            {"shortname": "Mining","fullname": "Mining"},
+            {"shortname": "Nuclear","fullname": "Nuclear"},
+            {"shortname": "Oil and Gas","fullname": "Oil and Gas"},
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "Petroleum","fullname": "Petroleum"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    }]
+},{
+        "shortname": "lifesciencesnmedicine",
+        "fullname": "Life Sciences & Medicine",
+        "source": ["tu"],
+        "courses": [{
+            "shortname": "agriculture_forestry",
+            "fullname": "Agriculture & Forestry",
+            "specialisation": [
+                {"shortname": "Agriculture","fullname": "Agriculture"},
+                {"shortname": "Animal","fullname": "Animal"},
+                {"shortname": "Business","fullname": "Business"},
+                {"shortname": "Conservation","fullname": "Conservation"},
+                {"shortname": "Crop","fullname": "Crop"},
+                {"shortname": "Educational","fullname": "Educational"},
+                {"shortname": "Environmental","fullname": "Environmental"},
+                {"shortname": "Food","fullname": "Food"},
+                {"shortname": "Forestry","fullname": "Forestry"},
+                {"shortname": "Horticultural","fullname": "Horticultural"},
+                {"shortname": "Landscape","fullname": "Landscape"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Parks and Recreation","fullname": "Parks and Recreation"},
+                {"shortname": "Plant","fullname": "Plant"},
+                {"shortname": "Sustainable","fullname": "Sustainable"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "anatomy_physiology",
+            "fullname": "Anatomy & Physiology",
+            "specialisation": [
+                {"shortname": "Anatomical","fullname": "Anatomical"},
+                {"shortname": "Bioengineering","fullname": "Bioengineering"},
+                {"shortname": "Biomedical","fullname": "Biomedical"},
+                {"shortname": "Exercise","fullname": "Exercise"},
+                {"shortname": "Forensics","fullname": "Forensics"},
+                {"shortname": "Health","fullname": "Health"},
+                {"shortname": "Occupational","fullname": "Occupational"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Physiotherapy","fullname": "Physiotherapy"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "anthropology",
+            "fullname": "Anthropology",
+            "specialisation": [
+                {"shortname": "African","fullname": "African"},
+                {"shortname": "Anthropology","fullname": "Anthropology"},
+                {"shortname": "Applied","fullname": "Applied"},
+                {"shortname": "Archaeology","fullname": "Archaeology"},
+                {"shortname": "Biology","fullname": "Biology"},
+                {"shortname": "Cultural","fullname": "Cultural"},
+                {"shortname": "Forensic","fullname": "Forensic"},
+                {"shortname": "International","fullname": "International"},
+                {"shortname": "Medical","fullname": "Medical"},
+                {"shortname": "Modern Languages","fullname": "Modern Languages"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Social","fullname": "Social"},
+                {"shortname": "Sociology","fullname": "Sociology"},
+                {"shortname": "Visual","fullname": "Visual"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "biological_sciences",
+            "fullname": "Biological Sciences",
+            "specialisation": [
+                {"shortname": "Analytical","fullname": "Analytical"},
+                {"shortname": "Anatomy","fullname": "Anatomy"},
+                {"shortname": "Animal","fullname": "Animal"},
+                {"shortname": "Applied","fullname": "Applied"},
+                {"shortname": "Biochemistry","fullname": "Biochemistry"},
+                {"shortname": "Bioengineering","fullname": "Bioengineering"},
+                {"shortname": "Bioinformatics","fullname": "Bioinformatics"},
+                {"shortname": "Biological","fullname": "Biological"},
+                {"shortname": "Biology","fullname": "Biology"},
+                {"shortname": "Biomedical","fullname": "Biomedical"},
+                {"shortname": "Biophysics","fullname": "Biophysics"},
+                {"shortname": "Biotechnology","fullname": "Biotechnology"},
+                {"shortname": "Botany","fullname": "Botany"},
+                {"shortname": "Cancer","fullname": "Cancer"},
+                {"shortname": "Cellular","fullname": "Cellular"},
+                {"shortname": "Chemical","fullname": "Chemical"},
+                {"shortname": "Cognitive","fullname": "Cognitive"},
+                {"shortname": "Computational","fullname": "Computational"},
+                {"shortname": "Education","fullname": "Education"},
+                {"shortname": "Environmental","fullname": "Environmental"},
+                {"shortname": "Forensics","fullname": "Forensics"},
+                {"shortname": "Genetics","fullname": "Genetics"},
+                {"shortname": "Health","fullname": "Health"},
+                {"shortname": "Human","fullname": "Human"},
+                {"shortname": "Human Biology","fullname": "Human Biology"},
+                {"shortname": "Immunology","fullname": "Immunology"},
+                {"shortname": "Life","fullname": "Life"},
+                {"shortname": "Marine","fullname": "Marine"},
+                {"shortname": "Mathematical","fullname": "Mathematical"},
+                {"shortname": "Medical","fullname": "Medical"},
+                {"shortname": "Microbiology","fullname": "Microbiology"},
+                {"shortname": "Molecular","fullname": "Molecular"},
+                {"shortname": "Natural","fullname": "Natural"},
+                {"shortname": "Neuroscience","fullname": "Neuroscience"},
+                {"shortname": "Nutrition","fullname": "Nutrition"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Pharmaceutical","fullname": "Pharmaceutical"},
+                {"shortname": "Plant","fullname": "Plant"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Social Sciences","fullname": "Social Sciences"},
+                {"shortname": "Sports","fullname": "Sports"},
+                {"shortname": "Toxicology","fullname": "Toxicology"},
+                {"shortname": "Translational","fullname": "Translational"},
+                {"shortname": "Visual","fullname": "Visual"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "dentistry",
+            "fullname": "Dentistry",
+            "specialisation": [
+                {"shortname": "Clinical","fullname": "Clinical"},
+                {"shortname": "Dental Medicine","fullname": "Dental Medicine"},
+                {"shortname": "Dental Science","fullname": "Dental Science"},
+                {"shortname": "Dentistry","fullname": "Dentistry"},
+                {"shortname": "Endodontics","fullname": "Endodontics"},
+                {"shortname": "Health","fullname": "Health"},
+                {"shortname": "Hygiene","fullname": "Hygiene"},
+                {"shortname": "Oral Health","fullname": "Oral Health"},
+                {"shortname": "Orthodontics","fullname": "Orthodontics"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Paediatric","fullname": "Paediatric"},
+                {"shortname": "Periodontics","fullname": "Periodontics"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Surgery","fullname": "Surgery"},
+                {"shortname": "Technology","fullname": "Technology"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "medicine",
+            "fullname": "Medicine",
+            "specialisation": [
+                {"shortname": "Audiology","fullname": "Audiology"},
+                {"shortname": "Biochemistry","fullname": "Biochemistry"},
+                {"shortname": "Biomedical","fullname": "Biomedical"},
+                {"shortname": "Cancer","fullname": "Cancer"},
+                {"shortname": "Cardiovascular","fullname": "Cardiovascular"},
+                {"shortname": "Clinical","fullname": "Clinical"},
+                {"shortname": "Epidemiology","fullname": "Epidemiology"},
+                {"shortname": "Genomic","fullname": "Genomic"},
+                {"shortname": "Health","fullname": "Health"},
+                {"shortname": "Immunology","fullname": "Immunology"},
+                {"shortname": "Laboratory Science","fullname": "Laboratory Science"},
+                {"shortname": "Medical Science","fullname": "Medical Science"},
+                {"shortname": "Medicine","fullname": "Medicine"},
+                {"shortname": "Molecular","fullname": "Molecular"},
+                {"shortname": "Neuroscience","fullname": "Neuroscience"},
+                {"shortname": "Occupational","fullname": "Occupational"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Paramedical","fullname": "Paramedical"},
+                {"shortname": "Pathology","fullname": "Pathology"},
+                {"shortname": "Physical","fullname": "Physical"},
+                {"shortname": "Radiational","fullname": "Radiational"},
+                {"shortname": "Reproductive","fullname": "Reproductive"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Respiratory","fullname": "Respiratory"},
+                {"shortname": "Speech","fullname": "Speech"},
+                {"shortname": "Sports","fullname": "Sports"},
+                {"shortname": "Stem","fullname": "Stem"},
+                {"shortname": "Surgery","fullname": "Surgery"},
+                {"shortname": "Technology","fullname": "Technology"},
+                {"shortname": "Veterinary","fullname": "Veterinary"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "medicine_related_studies",
+            "fullname": "Other Studies & Professions Allied to Medicine",
+            "specialisation": [
+                {"shortname": "Applied","fullname": "Applied"},
+                {"shortname": "Biomedical","fullname": "Biomedical"},
+                {"shortname": "Chemical","fullname": "Chemical"},
+                {"shortname": "Clinical","fullname": "Clinical"},
+                {"shortname": "Dietetics","fullname": "Dietetics"},
+                {"shortname": "Forensics","fullname": "Forensics"},
+                {"shortname": "Gerontology","fullname": "Gerontology"},
+                {"shortname": "Health Policy","fullname": "Health Policy"},
+                {"shortname": "Health Science","fullname": "Health Science"},
+                {"shortname": "Health Studies","fullname": "Health Studies"},
+                {"shortname": "Human Performance","fullname": "Human Performance"},
+                {"shortname": "Imaging","fullname": "Imaging"},
+                {"shortname": "Laboratory","fullname": "Laboratory"},
+                {"shortname": "Medical Science","fullname": "Medical Science"},
+                {"shortname": "Mental Health","fullname": "Mental Health"},
+                {"shortname": "Midwifery","fullname": "Midwifery"},
+                {"shortname": "Nutritional","fullname": "Nutritional"},
+                {"shortname": "Occupational","fullname": "Occupational"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Paramedicine","fullname": "Paramedicine"},
+                {"shortname": "Physiotherapy","fullname": "Physiotherapy"},
+                {"shortname": "Podiatric","fullname": "Podiatric"},
+                {"shortname": "Public Health","fullname": "Public Health"},
+                {"shortname": "Radiation","fullname": "Radiation"},
+                {"shortname": "Speech","fullname": "Speech"},
+                {"shortname": "Surgery","fullname": "Surgery"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "nursing",
+            "fullname": "Nursing",
+            "specialisation": [
+                {"shortname": "Accelerated","fullname": "Accelerated"},
+                {"shortname": "Adult nursing","fullname": "Adult nursing"},
+                {"shortname": "Advanced","fullname": "Advanced"},
+                {"shortname": "Children's","fullname": "Children's"},
+                {"shortname": "Clinical","fullname": "Clinical"},
+                {"shortname": "Community","fullname": "Community"},
+                {"shortname": "Dental","fullname": "Dental"},
+                {"shortname": "Family","fullname": "Family"},
+                {"shortname": "Learning","fullname": "Learning"},
+                {"shortname": "Mental Health","fullname": "Mental Health"},
+                {"shortname": "Midwifery","fullname": "Midwifery"},
+                {"shortname": "Nursing","fullname": "Nursing"},
+                {"shortname": "Nursing Practice","fullname": "Nursing Practice"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Physical","fullname": "Physical"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Veterinary","fullname": "Veterinary"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "pharmacology",
+            "fullname": "Pharmacology",
+            "specialisation": [
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Pharmacology","fullname": "Pharmacology"},
+                {"shortname": "Physiology","fullname": "Physiology"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "pharmacy_pharmacology",
+            "fullname": "Pharmacy & Pharmacology",
+            "specialisation": [
+                {"shortname": "Business","fullname": "Business"},
+                {"shortname": "Clinical","fullname": "Clinical"},
+                {"shortname": "Drug","fullname": "Drug"},
+                {"shortname": "Drug development","fullname": "Drug development"},
+                {"shortname": "Educational","fullname": "Educational"},
+                {"shortname": "Immunology","fullname": "Immunology"},
+                {"shortname": "Molecular","fullname": "Molecular"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Pharmaceutical","fullname": "Pharmaceutical"},
+                {"shortname": "Pharmacology","fullname": "Pharmacology"},
+                {"shortname": "Pharmacy","fullname": "Pharmacy"},
+                {"shortname": "Pharmacy Practice","fullname": "Pharmacy Practice"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Toxicology","fullname": "Toxicology"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "psychology",
+            "fullname": "Psychology",
+            "specialisation": [
+                {"shortname": "Addiction","fullname": "Addiction"},
+                {"shortname": "Advanced","fullname": "Advanced"},
+                {"shortname": "Applied","fullname": "Applied"},
+                {"shortname": "Autism","fullname": "Autism"},
+                {"shortname": "Behavioural","fullname": "Behavioural"},
+                {"shortname": "Biology","fullname": "Biology"},
+                {"shortname": "Biomedical","fullname": "Biomedical"},
+                {"shortname": "Business","fullname": "Business"},
+                {"shortname": "Child","fullname": "Child"},
+                {"shortname": "Clinical","fullname": "Clinical"},
+                {"shortname": "Cognitive","fullname": "Cognitive"},
+                {"shortname": "Commerce","fullname": "Commerce"},
+                {"shortname": "Conversion","fullname": "Conversion"},
+                {"shortname": "Counselling","fullname": "Counselling"},
+                {"shortname": "Developmental","fullname": "Developmental"},
+                {"shortname": "Educational","fullname": "Educational"},
+                {"shortname": "Forensics","fullname": "Forensics"},
+                {"shortname": "Gender","fullname": "Gender"},
+                {"shortname": "Health","fullname": "Health"},
+                {"shortname": "Human Resource","fullname": "Human Resource"},
+                {"shortname": "Law","fullname": "Law"},
+                {"shortname": "Management","fullname": "Management"},
+                {"shortname": "Marketing","fullname": "Marketing"},
+                {"shortname": "Mathematics","fullname": "Mathematics"},
+                {"shortname": "Modern Languages","fullname": "Modern Languages"},
+                {"shortname": "Music","fullname": "Music"},
+                {"shortname": "Neuroscience","fullname": "Neuroscience"},
+                {"shortname": "Occupational","fullname": "Occupational"},
+                {"shortname": "Organisational","fullname": "Organisational"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Professional","fullname": "Professional"},
+                {"shortname": "Psychological Science","fullname": "Psychological Science"},
+                {"shortname": "Psychology","fullname": "Psychology"},
+                {"shortname": "Radiation","fullname": "Radiation"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "School","fullname": "School"},
+                {"shortname": "Sociology","fullname": "Sociology"},
+                {"shortname": "Speech","fullname": "Speech"},
+                {"shortname": "Sports","fullname": "Sports"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "veterinary_science",
+            "fullname": "Veterinary Science",
+            "specialisation": [
+                {"shortname": "Animal","fullname": "Animal"},
+                {"shortname": "Biology","fullname": "Biology"},
+                {"shortname": "Biosciences","fullname": "Biosciences"},
+                {"shortname": "Clinical","fullname": "Clinical"},
+                {"shortname": "Educational","fullname": "Educational"},
+                {"shortname": "Epidemiology","fullname": "Epidemiology"},
+                {"shortname": "Equine","fullname": "Equine"},
+                {"shortname": "Medical","fullname": "Medical"},
+                {"shortname": "Microbiology","fullname": "Microbiology"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Parasitology","fullname": "Parasitology"},
+                {"shortname": "Pathology","fullname": "Pathology"},
+                {"shortname": "Surgery","fullname": "Surgery"},
+                {"shortname": "Sustainable","fullname": "Sustainable"},
+                {"shortname": "Technology","fullname": "Technology"},
+                {"shortname": "Veterinary","fullname": "Veterinary"},
+                {"shortname": "Veterinary Science","fullname": "Veterinary Science"},
+                {"shortname": "Wildlife","fullname": "Wildlife"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "zoology",
+            "fullname": "Zoology",
+            "specialisation": [
+                {"shortname": "Biology","fullname": "Biology"},
+                {"shortname": "Computational Science","fullname": "Computational Science"},
+                {"shortname": "Ecology","fullname": "Ecology"},
+                {"shortname": "Entomology","fullname": "Entomology"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Zoology","fullname": "Zoology"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        }
+    ]
+},{
+    "shortname": "naturalsciences",
+    "fullname": "Natural Sciences",
+    "source": ["tu"],
+    "courses": [{
+        "shortname": "astronomy",
+        "fullname": "Astronomy",
+        "specialisation": [
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    },{
+        "shortname": "chemistry",
+        "fullname": "Chemistry",
+        "specialisation": [
+            {"shortname": "Advanced","fullname": "Advanced"},
+            {"shortname": "Analytical","fullname": "Analytical"},
+            {"shortname": "Biochemistry","fullname": "Biochemistry"},
+            {"shortname": "Biology","fullname": "Biology"},
+            {"shortname": "Business","fullname": "Business"},
+            {"shortname": "Chemistry","fullname": "Chemistry"},
+            {"shortname": "Computational","fullname": "Computational"},
+            {"shortname": "Education","fullname": "Education"},
+            {"shortname": "Environmental","fullname": "Environmental"},
+            {"shortname": "Forensics","fullname": "Forensics"},
+            {"shortname": "Materials","fullname": "Materials"},
+            {"shortname": "Mathematics","fullname": "Mathematics"},
+            {"shortname": "Medicinal","fullname": "Medicinal"},
+            {"shortname": "Modern Languages","fullname": "Modern Languages"},
+            {"shortname": "Oil and Gas","fullname": "Oil and Gas"},
+            {"shortname": "Organic","fullname": "Organic"},
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "Pharmaceutical","fullname": "Pharmaceutical"},
+            {"shortname": "Physical","fullname": "Physical"},
+            {"shortname": "Physics","fullname": "Physics"},
+            {"shortname": "Polymer","fullname": "Polymer"},
+            {"shortname": "Research","fullname": "Research"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    },{
+        "shortname": "earth_and_marine_sciences",
+        "fullname": "Earth & Marine Sciences",
+        "specialisation": [
+            {"shortname": "Geochemistry","fullname": "Geochemistry"},
+            {"shortname": "Geology","fullname": "Geology"},
+            {"shortname": "Geophysics","fullname": "Geophysics"},
+            {"shortname": "Hydrology","fullname": "Hydrology"},
+            {"shortname": "Marine","fullname": "Marine"},
+            {"shortname": "Meteorology","fullname": "Meteorology"},
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    },{
+        "shortname": "environmental_studies",
+        "fullname": "Environmental Sciences",
+        "specialisation": [
+            {"shortname": "Chemistry","fullname": "Chemistry"},
+            {"shortname": "Climate","fullname": "Climate"},
+            {"shortname": "Earth","fullname": "Earth"},
+            {"shortname": "Ecology","fullname": "Ecology"},
+            {"shortname": "Energy","fullname": "Energy"},
+            {"shortname": "Engineering","fullname": "Engineering"},
+            {"shortname": "Environmental Studies","fullname": "Environmental Studies"},
+            {"shortname": "Geography","fullname": "Geography"},
+            {"shortname": "Geology","fullname": "Geology"},
+            {"shortname": "Geoscience","fullname": "Geoscience"},
+            {"shortname": "Health","fullname": "Health"},
+            {"shortname": "Humanities","fullname": "Humanities"},
+            {"shortname": "Law","fullname": "Law"},
+            {"shortname": "Management","fullname": "Management"},
+            {"shortname": "Marine","fullname": "Marine"},
+            {"shortname": "Monitoring","fullname": "Monitoring"},
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "Politics and Policy","fullname": "Politics and Policy"},
+            {"shortname": "Recreation","fullname": "Recreation"},
+            {"shortname": "Sustainability","fullname": "Sustainability"},
+            {"shortname": "Water","fullname": "Water"},
+            {"shortname": "Wildlife","fullname": "Wildlife"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    },{
+        "shortname": "geography",
+        "fullname": "Geography",
+        "specialisation": [
+            {"shortname": "Biology","fullname": "Biology"},
+            {"shortname": "Business","fullname": "Business"},
+            {"shortname": "Environmental","fullname": "Environmental"},
+            {"shortname": "Geography","fullname": "Geography"},
+            {"shortname": "Geology","fullname": "Geology"},
+            {"shortname": "Human","fullname": "Human"},
+            {"shortname": "International Studies","fullname": "International Studies"},
+            {"shortname": "Management","fullname": "Management"},
+            {"shortname": "Mathematics","fullname": "Mathematics"},
+            {"shortname": "Modern Languages","fullname": "Modern Languages"},
+            {"shortname": "Oceanography","fullname": "Oceanography"},
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "Physical","fullname": "Physical"},
+            {"shortname": "Politics","fullname": "Politics"},
+            {"shortname": "Research","fullname": "Research"},
+            {"shortname": "Sociology","fullname": "Sociology"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    },{
+        "shortname": "materials_sciences",
+        "fullname": "Materials Science",
+        "specialisation": [
+            {"shortname": "Dental","fullname": "Dental"},
+            {"shortname": "Engineering","fullname": "Engineering"},
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "Research","fullname": "Research"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    },{
+        "shortname": "mathematics",
+        "fullname": "Mathematics",
+        "specialisation": [
+            {"shortname": "Applied","fullname": "Applied"},
+            {"shortname": "Biology","fullname": "Biology"},
+            {"shortname": "Business","fullname": "Business"},
+            {"shortname": "Computer","fullname": "Computer"},
+            {"shortname": "Education","fullname": "Education"},
+            {"shortname": "Finance","fullname": "Finance"},
+            {"shortname": "Management","fullname": "Management"},
+            {"shortname": "Mathematics","fullname": "Mathematics"},
+            {"shortname": "Modern Languages","fullname": "Modern Languages"},
+            {"shortname": "Music","fullname": "Music"},
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "Physics","fullname": "Physics"},
+            {"shortname": "Pure","fullname": "Pure"},
+            {"shortname": "Research","fullname": "Research"},
+            {"shortname": "Statistics","fullname": "Statistics"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    },{
+        "shortname": "physics_astronomy",
+        "fullname": "Physics & Astronomy",
+        "specialisation": [
+            {"shortname": "Applied","fullname": "Applied"},
+            {"shortname": "Astronomy","fullname": "Astronomy"},
+            {"shortname": "Astrophysics","fullname": "Astrophysics"},
+            {"shortname": "Business","fullname": "Business"},
+            {"shortname": "Chemical","fullname": "Chemical"},
+            {"shortname": "Computational","fullname": "Computational"},
+            {"shortname": "Educational","fullname": "Educational"},
+            {"shortname": "Engineering","fullname": "Engineering"},
+            {"shortname": "Environmental","fullname": "Environmental"},
+            {"shortname": "Mathematical","fullname": "Mathematical"},
+            {"shortname": "Medical","fullname": "Medical"},
+            {"shortname": "Nanotechnology","fullname": "Nanotechnology"},
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "Particle","fullname": "Particle"},
+            {"shortname": "Physics","fullname": "Physics"},
+            {"shortname": "Physics and Astronomy","fullname": "Physics and Astronomy"},
+            {"shortname": "Quantum","fullname": "Quantum"},
+            {"shortname": "Research","fullname": "Research"},
+            {"shortname": "Theoretical","fullname": "Theoretical"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    },{
+        "shortname": "sustainable_development",
+        "fullname": "Sustainable Development",
+        "specialisation": [
+            {"shortname": "Domestic","fullname": "Domestic"},
+            {"shortname": "Energy","fullname": "Energy"},
+            {"shortname": "International","fullname": "International"},
+            {"shortname": "Others","fullname": "Others"},
+            {"shortname": "all","fullname": "All"}
+        ]
+    }
+]},{
+        "shortname": "socialsciencesnmanagement",
+        "fullname": "Social Sciences & Management",
+        "source": ["tu"],
+        "courses": [{
+            "shortname": "accounting_and_finance",
+            "fullname": "Accounting & Finance",
+            "specialisation": [
+                {"shortname": "Accountancy and Finance","fullname": "Accountancy and Finance"},
+                {"shortname": "Accounting and Management","fullname": "Accounting and Management"},
+                {"shortname": "Banking","fullname": "Banking"},
+                {"shortname": "Business and Finance","fullname": "Business and Finance"},
+                {"shortname": "Commerce","fullname": "Commerce"},
+                {"shortname": "Corporate Finance","fullname": "Corporate Finance"},
+                {"shortname": "Economics","fullname": "Economics"},
+                {"shortname": "Education","fullname": "Education"},
+                {"shortname": "Forensic","fullname": "Forensic"},
+                {"shortname": "Human Resources","fullname": "Human Resources"},
+                {"shortname": "International Accounting and Finance","fullname": "International Accounting and Finance"},
+                {"shortname": "International Business and Finance","fullname": "International Business and Finance"},
+                {"shortname": "Investment","fullname": "Investment"},
+                {"shortname": "Law","fullname": "Law"},
+                {"shortname": "Marketing","fullname": "Marketing"},
+                {"shortname": "Mathematics","fullname": "Mathematics"},
+                {"shortname": "Modern Languages","fullname": "Modern Languages"},
+                {"shortname": "Operational","fullname": "Operational"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Professional Accounting","fullname": "Professional Accounting"},
+                {"shortname": "Quantitative","fullname": "Quantitative"},
+                {"shortname": "Real Estate","fullname": "Real Estate"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Risk","fullname": "Risk"},
+                {"shortname": "Taxation","fullname": "Taxation"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "area_studies",
+            "fullname": "Area Studies",
+            "specialisation": [
+                {"shortname": "African","fullname": "African"},
+                {"shortname": "American","fullname": "American"},
+                {"shortname": "Arabic","fullname": "Arabic"},
+                {"shortname": "Asian","fullname": "Asian"},
+                {"shortname": "English","fullname": "English"},
+                {"shortname": "European","fullname": "European"},
+                {"shortname": "French","fullname": "French"},
+                {"shortname": "German","fullname": "German"},
+                {"shortname": "Global","fullname": "Global"},
+                {"shortname": "International","fullname": "International"},
+                {"shortname": "Italian","fullname": "Italian"},
+                {"shortname": "Jewish","fullname": "Jewish"},
+                {"shortname": "Middle East","fullname": "Middle East"},
+                {"shortname": "Near Eastern","fullname": "Near Eastern"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Portuguese","fullname": "Portuguese"},
+                {"shortname": "Russian","fullname": "Russian"},
+                {"shortname": "Spanish","fullname": "Spanish"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "business_management_studies",
+            "fullname": "Business & Management Studies",
+            "specialisation": [
+                {"shortname": "Advertising","fullname": "Advertising"},
+                {"shortname": "Air Transport","fullname": "Air Transport"},
+                {"shortname": "Analysis","fullname": "Analysis"},
+                {"shortname": "Analytics","fullname": "Analytics"},
+                {"shortname": "Archive and Records","fullname": "Archive and Records"},
+                {"shortname": "Business Administration","fullname": "Business Administration"},
+                {"shortname": "Business and Human Resources","fullname": "Business and Human Resources"},
+                {"shortname": "Business and Management","fullname": "Business and Management"},
+                {"shortname": "Business and Marketing","fullname": "Business and Marketing"},
+                {"shortname": "Commerce","fullname": "Commerce"},
+                {"shortname": "Communication","fullname": "Communication"},
+                {"shortname": "Computing","fullname": "Computing"},
+                {"shortname": "Conflict Analysis","fullname": "Conflict Analysis"},
+                {"shortname": "Construction","fullname": "Construction"},
+                {"shortname": "Digital","fullname": "Digital"},
+                {"shortname": "Economics","fullname": "Economics"},
+                {"shortname": "Enterprise","fullname": "Enterprise"},
+                {"shortname": "Entrepreneurship and Innovation","fullname": "Entrepreneurship and Innovation"},
+                {"shortname": "Environment","fullname": "Environment"},
+                {"shortname": "Event Management","fullname": "Event Management"},
+                {"shortname": "Facilities","fullname": "Facilities"},
+                {"shortname": "Fashion","fullname": "Fashion"},
+                {"shortname": "Finance","fullname": "Finance"},
+                {"shortname": "Financial Management","fullname": "Financial Management"},
+                {"shortname": "Global","fullname": "Global"},
+                {"shortname": "Health","fullname": "Health"},
+                {"shortname": "Hospitality","fullname": "Hospitality"},
+                {"shortname": "Human Resources","fullname": "Human Resources"},
+                {"shortname": "International Business","fullname": "International Business"},
+                {"shortname": "International Business Communication","fullname": "International Business Communication"},
+                {"shortname": "International Business Management","fullname": "International Business Management"},
+                {"shortname": "International Business Marketing","fullname": "International Business Marketing"},
+                {"shortname": "International Event","fullname": "International Event"},
+                {"shortname": "International Fashion","fullname": "International Fashion"},
+                {"shortname": "International Hospitality","fullname": "International Hospitality"},
+                {"shortname": "International Hotel","fullname": "International Hotel"},
+                {"shortname": "International Human Resources","fullname": "International Human Resources"},
+                {"shortname": "International Management","fullname": "International Management"},
+                {"shortname": "Investment","fullname": "Investment"},
+                {"shortname": "Journalism","fullname": "Journalism"},
+                {"shortname": "Law","fullname": "Law"},
+                {"shortname": "Leadership","fullname": "Leadership"},
+                {"shortname": "Logistics","fullname": "Logistics"},
+                {"shortname": "Luxury","fullname": "Luxury"},
+                {"shortname": "Management","fullname": "Management"},
+                {"shortname": "Marketing","fullname": "Marketing"},
+                {"shortname": "MBA","fullname": "MBA"},
+                {"shortname": "Modern Languages","fullname": "Modern Languages"},
+                {"shortname": "Music","fullname": "Music"},
+                {"shortname": "Oil and Gas","fullname": "Oil and Gas"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Project Management","fullname": "Project Management"},
+                {"shortname": "Quantity Surveying","fullname": "Quantity Surveying"},
+                {"shortname": "Real Estate","fullname": "Real Estate"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Retail","fullname": "Retail"},
+                {"shortname": "Risk Management","fullname": "Risk Management"},
+                {"shortname": "Shipping","fullname": "Shipping"},
+                {"shortname": "Sport","fullname": "Sport"},
+                {"shortname": "Supply Chain","fullname": "Supply Chain"},
+                {"shortname": "Sustainable","fullname": "Sustainable"},
+                {"shortname": "Technology","fullname": "Technology"},
+                {"shortname": "Tourism","fullname": "Tourism"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "communication_and_media_studies",
+            "fullname": "Communication & Media Studies",
+            "specialisation": [
+                {"shortname": "Advertising and PR","fullname": "Advertising and PR"},
+                {"shortname": "Broadcast","fullname": "Broadcast"},
+                {"shortname": "Communication Studies","fullname": "Communication Studies"},
+                {"shortname": "Creative Media","fullname": "Creative Media"},
+                {"shortname": "Digital","fullname": "Digital"},
+                {"shortname": "Disorders","fullname": "Disorders"},
+                {"shortname": "Fashion","fullname": "Fashion"},
+                {"shortname": "Film Studies","fullname": "Film Studies"},
+                {"shortname": "Folklore","fullname": "Folklore"},
+                {"shortname": "Global","fullname": "Global"},
+                {"shortname": "Graphic","fullname": "Graphic"},
+                {"shortname": "Humanities","fullname": "Humanities"},
+                {"shortname": "Intercultural","fullname": "Intercultural"},
+                {"shortname": "Journalism","fullname": "Journalism"},
+                {"shortname": "Liberal Studies","fullname": "Liberal Studies"},
+                {"shortname": "Mass Communication","fullname": "Mass Communication"},
+                {"shortname": "Media and Communications","fullname": "Media and Communications"},
+                {"shortname": "Media Studies","fullname": "Media Studies"},
+                {"shortname": "Modern Languages","fullname": "Modern Languages"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Politics","fullname": "Politics"},
+                {"shortname": "Religion","fullname": "Religion"},
+                {"shortname": "Visual","fullname": "Visual"},
+                {"shortname": "Women's and Gender Studies","fullname": "Women's and Gender Studies"},
+                {"shortname": "Writing","fullname": "Writing"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "development_studies",
+            "fullname": "Development Studies",
+            "specialisation": [
+                {"shortname": "Community","fullname": "Community"},
+                {"shortname": "Conflict","fullname": "Conflict"},
+                {"shortname": "Cultural","fullname": "Cultural"},
+                {"shortname": "Developmental","fullname": "Developmental"},
+                {"shortname": "Drug","fullname": "Drug"},
+                {"shortname": "Economics","fullname": "Economics"},
+                {"shortname": "Educational","fullname": "Educational"},
+                {"shortname": "Folklore","fullname": "Folklore"},
+                {"shortname": "Food","fullname": "Food"},
+                {"shortname": "Game","fullname": "Game"},
+                {"shortname": "Gender","fullname": "Gender"},
+                {"shortname": "International","fullname": "International"},
+                {"shortname": "Mobile","fullname": "Mobile"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Planning","fullname": "Planning"},
+                {"shortname": "Practice","fullname": "Practice"},
+                {"shortname": "Property","fullname": "Property"},
+                {"shortname": "Real Estate","fullname": "Real Estate"},
+                {"shortname": "Software","fullname": "Software"},
+                {"shortname": "Sport","fullname": "Sport"},
+                {"shortname": "Sustainable","fullname": "Sustainable"},
+                {"shortname": "Web","fullname": "Web"},
+                {"shortname": "Women","fullname": "Women"},
+                {"shortname": "Youth","fullname": "Youth"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "economics_and_econometrics",
+            "fullname": "Economics & Econometrics",
+            "specialisation": [
+                {"shortname": "Business","fullname": "Business"},
+                {"shortname": "Commerce","fullname": "Commerce"},
+                {"shortname": "Econometrics","fullname": "Econometrics"},
+                {"shortname": "Economics","fullname": "Economics"},
+                {"shortname": "Financial","fullname": "Financial"},
+                {"shortname": "International","fullname": "International"},
+                {"shortname": "Management","fullname": "Management"},
+                {"shortname": "Marketing","fullname": "Marketing"},
+                {"shortname": "Mathematics","fullname": "Mathematics"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Politics","fullname": "Politics"},
+                {"shortname": "Social","fullname": "Social"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "education_and_training",
+            "fullname": "Education",
+            "specialisation": [
+                {"shortname": "Adolescence","fullname": "Adolescence"},
+                {"shortname": "Adult","fullname": "Adult"},
+                {"shortname": "Adult Education","fullname": "Adult Education"},
+                {"shortname": "Art","fullname": "Art"},
+                {"shortname": "Biology","fullname": "Biology"},
+                {"shortname": "Chemistry","fullname": "Chemistry"},
+                {"shortname": "Child and Adolescent","fullname": "Child and Adolescent"},
+                {"shortname": "Childhood","fullname": "Childhood"},
+                {"shortname": "Clinical","fullname": "Clinical"},
+                {"shortname": "Communication Disorders","fullname": "Communication Disorders"},
+                {"shortname": "Counselling","fullname": "Counselling"},
+                {"shortname": "Curriculum","fullname": "Curriculum"},
+                {"shortname": "Early Childhood","fullname": "Early Childhood"},
+                {"shortname": "Education Studies","fullname": "Education Studies"},
+                {"shortname": "English","fullname": "English"},
+                {"shortname": "Health","fullname": "Health"},
+                {"shortname": "Higher Education","fullname": "Higher Education"},
+                {"shortname": "History","fullname": "History"},
+                {"shortname": "International","fullname": "International"},
+                {"shortname": "Languages","fullname": "Languages"},
+                {"shortname": "Leadership","fullname": "Leadership"},
+                {"shortname": "Mathematics","fullname": "Mathematics"},
+                {"shortname": "Medical","fullname": "Medical"},
+                {"shortname": "Music","fullname": "Music"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Outdoor","fullname": "Outdoor"},
+                {"shortname": "Physical and Sport","fullname": "Physical and Sport"},
+                {"shortname": "Physical Sciences","fullname": "Physical Sciences"},
+                {"shortname": "Physics","fullname": "Physics"},
+                {"shortname": "Primary Education","fullname": "Primary Education"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Science","fullname": "Science"},
+                {"shortname": "Secondary Education","fullname": "Secondary Education"},
+                {"shortname": "Social Science","fullname": "Social Science"},
+                {"shortname": "Special Education","fullname": "Special Education"},
+                {"shortname": "Teacher","fullname": "Teacher"},
+                {"shortname": "Teaching  ","fullname": "Teaching  "},
+                {"shortname": "Teaching Primary","fullname": "Teaching Primary"},
+                {"shortname": "Teaching Secondary ","fullname": "Teaching Secondary "},
+                {"shortname": "Technology","fullname": "Technology"},
+                {"shortname": "Theatre","fullname": "Theatre"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "ethnicity_gender_and_diversity",
+            "fullname": "Ethnicity, Gender and Diversity",
+            "specialisation": [
+                {"shortname": "Aboriginal","fullname": "Aboriginal"},
+                {"shortname": "Black Studies","fullname": "Black Studies"},
+                {"shortname": "Gender Studies","fullname": "Gender Studies"},
+                {"shortname": "Gender, Sexuality and Culture","fullname": "Gender, Sexuality and Culture"},
+                {"shortname": "Genetics","fullname": "Genetics"},
+                {"shortname": "Indigenous","fullname": "Indigenous"},
+                {"shortname": "Occupational Health","fullname": "Occupational Health"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Plant","fullname": "Plant"},
+                {"shortname": "Safety","fullname": "Safety"},
+                {"shortname": "Women and Gender Studies","fullname": "Women and Gender Studies"},
+                {"shortname": "all","fullname": "All"}  
+            ]
+        },{
+            "shortname": "finance",
+            "fullname": "Finance",
+            "specialisation": [
+                {"shortname": "Analysis","fullname": "Analysis"},
+                {"shortname": "Applied","fullname": "Applied"},
+                {"shortname": "Banking","fullname": "Banking"},
+                {"shortname": "Business","fullname": "Business"},
+                {"shortname": "Commerce","fullname": "Commerce"},
+                {"shortname": "Finance","fullname": "Finance"},
+                {"shortname": "International","fullname": "International"},
+                {"shortname": "Investment","fullname": "Investment"},
+                {"shortname": "Management","fullname": "Management"},
+                {"shortname": "Mathematics","fullname": "Mathematics"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Planning","fullname": "Planning"},
+                {"shortname": "Quantitative","fullname": "Quantitative"},
+                {"shortname": "Taxation","fullname": "Taxation"},
+                {"shortname": "all","fullname": "All"}  
+            ]
+        },{
+            "shortname": "hospitality_leisure_management",
+            "fullname": "Hospitality & Leisure Management",
+            "specialisation": [
+                {"shortname": "Brewing","fullname": "Brewing"},
+                {"shortname": "Business","fullname": "Business"},
+                {"shortname": "Event Management","fullname": "Event Management"},
+                {"shortname": "Food Safety","fullname": "Food Safety"},
+                {"shortname": "Food Science","fullname": "Food Science"},
+                {"shortname": "Hospitality and Tourism","fullname": "Hospitality and Tourism"},
+                {"shortname": "International","fullname": "International"},
+                {"shortname": "Leadership","fullname": "Leadership"},
+                {"shortname": "Leisure","fullname": "Leisure"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Parks and Recreation","fullname": "Parks and Recreation"},
+                {"shortname": "Sport Management","fullname": "Sport Management"},
+                {"shortname": "Tourism","fullname": "Tourism"},
+                {"shortname": "Tourism Management","fullname": "Tourism Management"},
+                {"shortname": "Viticulture","fullname": "Viticulture"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "human_resources_management",
+            "fullname": "Human Resources Management",
+            "specialisation": [
+                {"shortname": "Human Biology","fullname": "Human Biology"},
+                {"shortname": "Human Bioscience","fullname": "Human Bioscience"},
+                {"shortname": "Human Nutrition","fullname": "Human Nutrition"},
+                {"shortname": "Human Resource Management","fullname": "Human Resource Management"},
+                {"shortname": "Human Rights","fullname": "Human Rights"},
+                {"shortname": "International Human Resource Management","fullname": "International Human Resource Management"},
+                {"shortname": "International Human Rights","fullname": "International Human Rights"},
+                {"shortname": "Law","fullname": "Law"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "international_relations_studies_affairs",
+            "fullname": "International Relations / Studies / Affairs",
+            "specialisation": [
+                {"shortname": "Conflict","fullname": "Conflict"},
+                {"shortname": "Diplomacy","fullname": "Diplomacy"},
+                {"shortname": "European Studies","fullname": "European Studies"},
+                {"shortname": "Global Studies","fullname": "Global Studies"},
+                {"shortname": "Health","fullname": "Health"},
+                {"shortname": "International Business","fullname": "International Business"},
+                {"shortname": "International Development","fullname": "International Development"},
+                {"shortname": "International Finance","fullname": "International Finance"},
+                {"shortname": "International Law","fullname": "International Law"},
+                {"shortname": "International Marketing","fullname": "International Marketing"},
+                {"shortname": "International Political Economy","fullname": "International Political Economy"},
+                {"shortname": "International Politics","fullname": "International Politics"},
+                {"shortname": "International Relations","fullname": "International Relations"},
+                {"shortname": "International Relations and Law","fullname": "International Relations and Law"},
+                {"shortname": "International Studies","fullname": "International Studies"},
+                {"shortname": "International Tourism","fullname": "International Tourism"},
+                {"shortname": "International Trade","fullname": "International Trade"},
+                {"shortname": "Journalism","fullname": "Journalism"},
+                {"shortname": "Maritime","fullname": "Maritime"},
+                {"shortname": "Marketing","fullname": "Marketing"},
+                {"shortname": "MBA","fullname": "MBA"},
+                {"shortname": "Modern Languages","fullname": "Modern Languages"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Politics and International Relations","fullname": "Politics and International Relations"},
+                {"shortname": "Public Relations","fullname": "Public Relations"},
+                {"shortname": "Security","fullname": "Security"},
+                {"shortname": "Social Policy","fullname": "Social Policy"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "journalism",
+            "fullname": "Journalism",
+            "specialisation": [
+                {"shortname": "Communication","fullname": "Communication"},
+                {"shortname": "International","fullname": "International"},
+                {"shortname": "Journalism","fullname": "Journalism"},
+                {"shortname": "Law","fullname": "Law"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Sport","fullname": "Sport"},
+                {"shortname": "Writing","fullname": "Writing"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "law_and_legal_studies",
+            "fullname": "Law",
+            "specialisation": [
+                {"shortname": "Banking and Finance","fullname": "Banking and Finance"},
+                {"shortname": "Business","fullname": "Business"},
+                {"shortname": "Commercial","fullname": "Commercial"},
+                {"shortname": "Commercial Law","fullname": "Commercial Law"},
+                {"shortname": "Corporate Law","fullname": "Corporate Law"},
+                {"shortname": "Criminal Justice","fullname": "Criminal Justice"},
+                {"shortname": "Criminal Law","fullname": "Criminal Law"},
+                {"shortname": "Criminal Law and Criminal Justice","fullname": "Criminal Law and Criminal Justice"},
+                {"shortname": "Cyber Security","fullname": "Cyber Security"},
+                {"shortname": "E-commerce","fullname": "E-commerce"},
+                {"shortname": "Employment Law","fullname": "Employment Law"},
+                {"shortname": "Environmental","fullname": "Environmental"},
+                {"shortname": "European","fullname": "European"},
+                {"shortname": "Forensics","fullname": "Forensics"},
+                {"shortname": "Human Rights","fullname": "Human Rights"},
+                {"shortname": "Intellectual Property","fullname": "Intellectual Property"},
+                {"shortname": "International Commercial Law","fullname": "International Commercial Law"},
+                {"shortname": "International Development","fullname": "International Development"},
+                {"shortname": "International Law","fullname": "International Law"},
+                {"shortname": "Juridicial Science","fullname": "Juridicial Science"},
+                {"shortname": "Juris Doctor","fullname": "Juris Doctor"},
+                {"shortname": "Justice Studies","fullname": "Justice Studies"},
+                {"shortname": "Law","fullname": "Law"},
+                {"shortname": "Legal Studies","fullname": "Legal Studies"},
+                {"shortname": "Maritime","fullname": "Maritime"},
+                {"shortname": "Medical","fullname": "Medical"},
+                {"shortname": "Modern Languages","fullname": "Modern Languages"},
+                {"shortname": "Oil and Gas","fullname": "Oil and Gas"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Politics","fullname": "Politics"},
+                {"shortname": "Psychological Science","fullname": "Psychological Science"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Scots","fullname": "Scots"},
+                {"shortname": "Sociology","fullname": "Sociology"},
+                {"shortname": "Taxation","fullname": "Taxation"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "library_information_management",
+            "fullname": "Library & Information Management",
+            "specialisation": [
+                {"shortname": "Data Analytics","fullname": "Data Analytics"},
+                {"shortname": "Data Science","fullname": "Data Science"},
+                {"shortname": "Informatics","fullname": "Informatics"},
+                {"shortname": "Information Management","fullname": "Information Management"},
+                {"shortname": "Information Science","fullname": "Information Science"},
+                {"shortname": "Information Studies","fullname": "Information Studies"},
+                {"shortname": "Library Science","fullname": "Library Science"},
+                {"shortname": "Museum Studies","fullname": "Museum Studies"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "logistics_supply_chain_management",
+            "fullname": "Logistics / Supply Chain Management",
+            "specialisation": [
+                {"shortname": "Global","fullname": "Global"},
+                {"shortname": "Logistics","fullname": "Logistics"},
+                {"shortname": "Logistics and Supply Chain","fullname": "Logistics and Supply Chain"},
+                {"shortname": "Operations","fullname": "Operations"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Supply Chain","fullname": "Supply Chain"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "marketing",
+            "fullname": "Marketing",
+            "specialisation": [
+                {"shortname": "Advertising","fullname": "Advertising"},
+                {"shortname": "Analytics","fullname": "Analytics"},
+                {"shortname": "Apparel","fullname": "Apparel"},
+                {"shortname": "Business","fullname": "Business"},
+                {"shortname": "Commerce","fullname": "Commerce"},
+                {"shortname": "Communications","fullname": "Communications"},
+                {"shortname": "Consumer","fullname": "Consumer"},
+                {"shortname": "Digital","fullname": "Digital"},
+                {"shortname": "Fashion","fullname": "Fashion"},
+                {"shortname": "International","fullname": "International"},
+                {"shortname": "Journalism","fullname": "Journalism"},
+                {"shortname": "Management","fullname": "Management"},
+                {"shortname": "Marketing","fullname": "Marketing"},
+                {"shortname": "Merchandising","fullname": "Merchandising"},
+                {"shortname": "Modern Languages","fullname": "Modern Languages"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Public Relations","fullname": "Public Relations"},
+                {"shortname": "Retail","fullname": "Retail"},
+                {"shortname": "Social Research","fullname": "Social Research"},
+                {"shortname": "Sport","fullname": "Sport"},
+                {"shortname": "Strategic","fullname": "Strategic"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "politics",
+            "fullname": "Politics & International Studies",
+            "specialisation": [
+                {"shortname": "American","fullname": "American"},
+                {"shortname": "Comparative","fullname": "Comparative"},
+                {"shortname": "Economics","fullname": "Economics"},
+                {"shortname": "European","fullname": "European"},
+                {"shortname": "Global","fullname": "Global"},
+                {"shortname": "Government","fullname": "Government"},
+                {"shortname": "International","fullname": "International"},
+                {"shortname": "Journalism","fullname": "Journalism"},
+                {"shortname": "Law","fullname": "Law"},
+                {"shortname": "Modern Languages","fullname": "Modern Languages"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Political Science","fullname": "Political Science"},
+                {"shortname": "Political Theory","fullname": "Political Theory"},
+                {"shortname": "Politics","fullname": "Politics"},
+                {"shortname": "Politics and Social Policy","fullname": "Politics and Social Policy"},
+                {"shortname": "Politics and Sociology","fullname": "Politics and Sociology"},
+                {"shortname": "Public Policy","fullname": "Public Policy"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Social Research","fullname": "Social Research"},
+                {"shortname": "Spanish","fullname": "Spanish"},
+                {"shortname": "Sustainability","fullname": "Sustainability"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "public_policy",
+            "fullname": "Social Policy & Administration",
+            "specialisation": [
+                {"shortname": "Applied","fullname": "Applied"},
+                {"shortname": "Dental","fullname": "Dental"},
+                {"shortname": "Environmental","fullname": "Environmental"},
+                {"shortname": "Epidemiology","fullname": "Epidemiology"},
+                {"shortname": "Health Education","fullname": "Health Education"},
+                {"shortname": "Health Promotion","fullname": "Health Promotion"},
+                {"shortname": "Modern Languages","fullname": "Modern Languages"},
+                {"shortname": "Nutrition","fullname": "Nutrition"},
+                {"shortname": "Occupational","fullname": "Occupational"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Publc Policy","fullname": "Publc Policy"},
+                {"shortname": "Public Administration","fullname": "Public Administration"},
+                {"shortname": "Public Affairs","fullname": "Public Affairs"},
+                {"shortname": "Public Health","fullname": "Public Health"},
+                {"shortname": "Public Policy","fullname": "Public Policy"},
+                {"shortname": "Public Services","fullname": "Public Services"},
+                {"shortname": "Social Policy","fullname": "Social Policy"},
+                {"shortname": "Sociology and Social Policy","fullname": "Sociology and Social Policy"},
+                {"shortname": "all","fullname": "All"}  
+            ]
+        },{
+            "shortname": "sociology",
+            "fullname": "Sociology",
+            "specialisation": [
+                {"shortname": "American Studies","fullname": "American Studies"},
+                {"shortname": "Applied","fullname": "Applied"},
+                {"shortname": "Asian Studies","fullname": "Asian Studies"},
+                {"shortname": "Australian Studies","fullname": "Australian Studies"},
+                {"shortname": "Chinese Studies","fullname": "Chinese Studies"},
+                {"shortname": "Conflict Studies","fullname": "Conflict Studies"},
+                {"shortname": "Criminology","fullname": "Criminology"},
+                {"shortname": "Developmental","fullname": "Developmental"},
+                {"shortname": "Economics","fullname": "Economics"},
+                {"shortname": "Education","fullname": "Education"},
+                {"shortname": "Engineering","fullname": "Engineering"},
+                {"shortname": "European Studies","fullname": "European Studies"},
+                {"shortname": "Family","fullname": "Family"},
+                {"shortname": "Forensics","fullname": "Forensics"},
+                {"shortname": "Gerontology","fullname": "Gerontology"},
+                {"shortname": "Health","fullname": "Health"},
+                {"shortname": "Human Services","fullname": "Human Services"},
+                {"shortname": "Indigenous","fullname": "Indigenous"},
+                {"shortname": "International Studies","fullname": "International Studies"},
+                {"shortname": "Justice","fullname": "Justice"},
+                {"shortname": "Law","fullname": "Law"},
+                {"shortname": "Mathematics","fullname": "Mathematics"},
+                {"shortname": "Media and Culture","fullname": "Media and Culture"},
+                {"shortname": "Modern Languages","fullname": "Modern Languages"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Political","fullname": "Political"},
+                {"shortname": "Psychology","fullname": "Psychology"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Science","fullname": "Science"},
+                {"shortname": "Security","fullname": "Security"},
+                {"shortname": "Social Care","fullname": "Social Care"},
+                {"shortname": "Social Policy","fullname": "Social Policy"},
+                {"shortname": "Social Science","fullname": "Social Science"},
+                {"shortname": "Social Sciences","fullname": "Social Sciences"},
+                {"shortname": "Social Studies","fullname": "Social Studies"},
+                {"shortname": "Social Work","fullname": "Social Work"},
+                {"shortname": "Sociology","fullname": "Sociology"},
+                {"shortname": "Sport","fullname": "Sport"},
+                {"shortname": "Statistics","fullname": "Statistics"},
+                {"shortname": "Visual","fullname": "Visual"},
+                {"shortname": "Youth","fullname": "Youth"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "sports_related_courses",
+            "fullname": "Sports-related Subjects",
+            "specialisation": [
+                {"shortname": "Applied","fullname": "Applied"},
+                {"shortname": "Athletic","fullname": "Athletic"},
+                {"shortname": "Business","fullname": "Business"},
+                {"shortname": "Coaching","fullname": "Coaching"},
+                {"shortname": "Conditioning","fullname": "Conditioning"},
+                {"shortname": "Exercise and Health Science","fullname": "Exercise and Health Science"},
+                {"shortname": "Exercise and Sport Science","fullname": "Exercise and Sport Science"},
+                {"shortname": "Exercise Science","fullname": "Exercise Science"},
+                {"shortname": "Health","fullname": "Health"},
+                {"shortname": "Kinesiology","fullname": "Kinesiology"},
+                {"shortname": "Marketing","fullname": "Marketing"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Physical Education","fullname": "Physical Education"},
+                {"shortname": "Physiology","fullname": "Physiology"},
+                {"shortname": "Psychology","fullname": "Psychology"},
+                {"shortname": "Rehabilitation","fullname": "Rehabilitation"},
+                {"shortname": "Sport Development","fullname": "Sport Development"},
+                {"shortname": "Sport Management","fullname": "Sport Management"},
+                {"shortname": "Sports Science","fullname": "Sports Science"},
+                {"shortname": "Sports Studies","fullname": "Sports Studies"},
+                {"shortname": "Therapy","fullname": "Therapy"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "statistics_and_operational_research",
+            "fullname": "Statistics & Operational Research",
+            "specialisation": [
+                {"shortname": "Actuarial Sciences","fullname": "Actuarial Sciences"},
+                {"shortname": "Applied","fullname": "Applied"},
+                {"shortname": "Biology","fullname": "Biology"},
+                {"shortname": "Biomedical","fullname": "Biomedical"},
+                {"shortname": "Business Computing","fullname": "Business Computing"},
+                {"shortname": "Business Information","fullname": "Business Information"},
+                {"shortname": "Cell Matrix","fullname": "Cell Matrix"},
+                {"shortname": "Clinical and Health","fullname": "Clinical and Health"},
+                {"shortname": "Computational Science","fullname": "Computational Science"},
+                {"shortname": "Computer Networking","fullname": "Computer Networking"},
+                {"shortname": "Computer Science","fullname": "Computer Science"},
+                {"shortname": "Computing","fullname": "Computing"},
+                {"shortname": "Data Analytics","fullname": "Data Analytics"},
+                {"shortname": "Data Science","fullname": "Data Science"},
+                {"shortname": "Educational Research","fullname": "Educational Research"},
+                {"shortname": "Gaming","fullname": "Gaming"},
+                {"shortname": "Historical Research","fullname": "Historical Research"},
+                {"shortname": "Information and Data systems","fullname": "Information and Data systems"},
+                {"shortname": "Marine Biology","fullname": "Marine Biology"},
+                {"shortname": "Mathematics","fullname": "Mathematics"},
+                {"shortname": "Medical Statistics","fullname": "Medical Statistics"},
+                {"shortname": "Operational Research","fullname": "Operational Research"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Predictive Analytics","fullname": "Predictive Analytics"},
+                {"shortname": "Probability and Statistics","fullname": "Probability and Statistics"},
+                {"shortname": "Psychological Research","fullname": "Psychological Research"},
+                {"shortname": "Research","fullname": "Research"},
+                {"shortname": "Security","fullname": "Security"},
+                {"shortname": "Software Engineering","fullname": "Software Engineering"},
+                {"shortname": "Statistics","fullname": "Statistics"},
+                {"shortname": "Surveying","fullname": "Surveying"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        },{
+            "shortname": "theology_divinity_religious_studies",
+            "fullname": "Theology, Divinity & Religious Studies",
+            "specialisation": [
+                {"shortname": "American and Canadian Studies","fullname": "American and Canadian Studies"},
+                {"shortname": "Asia and Middle Eastern Studies","fullname": "Asia and Middle Eastern Studies"},
+                {"shortname": "Asia Pacific Studies","fullname": "Asia Pacific Studies"},
+                {"shortname": "Biblical Studies","fullname": "Biblical Studies"},
+                {"shortname": "Childhood and Youth Studies","fullname": "Childhood and Youth Studies"},
+                {"shortname": "Classical Studies","fullname": "Classical Studies"},
+                {"shortname": "Cultural Studies","fullname": "Cultural Studies"},
+                {"shortname": "Divinity","fullname": "Divinity"},
+                {"shortname": "Education Studies","fullname": "Education Studies"},
+                {"shortname": "Film","fullname": "Film"},
+                {"shortname": "French Studies","fullname": "French Studies"},
+                {"shortname": "German Studies","fullname": "German Studies"},
+                {"shortname": "Health Studies","fullname": "Health Studies"},
+                {"shortname": "International Studies","fullname": "International Studies"},
+                {"shortname": "Media Studies","fullname": "Media Studies"},
+                {"shortname": "Ministry","fullname": "Ministry"},
+                {"shortname": "Nursing Studies","fullname": "Nursing Studies"},
+                {"shortname": "Others","fullname": "Others"},
+                {"shortname": "Policing Studies","fullname": "Policing Studies"},
+                {"shortname": "Political Studies","fullname": "Political Studies"},
+                {"shortname": "Religion","fullname": "Religion"},
+                {"shortname": "Social Studies","fullname": "Social Studies"},
+                {"shortname": "Spanish Studies","fullname": "Spanish Studies"},
+                {"shortname": "Sport Studies","fullname": "Sport Studies"},
+                {"shortname": "Theology","fullname": "Theology"},
+                {"shortname": "Translation Studies","fullname": "Translation Studies"},
+                {"shortname": "all","fullname": "All"}
+            ]
+        }
+    ]
+},{
+            "shortname": "management",
+            "fullname": "Management",
+            "source": ["tm"],
+            "courses": [{
+                    "shortname": "accountancy",
+                    "fullname": "Accountancy",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "accountancy_and_financial",
+                    "fullname": "Accountancy And Financial",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "strategic_management",
+                    "fullname": "Strategic Management",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "marketing",
+                    "fullname": "Marketing",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "operations_management",
+                    "fullname": "Operations Management",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "international_management_business",
+                    "fullname": "International Management Business",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "entrepreneurship",
+                    "fullname": "Entrepreneurship",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "corporate_social_responsibility",
+                    "fullname": "Corporate Social Responsibility",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "brand_management",
+                    "fullname": "Brand Management",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "finance",
+                    "fullname": "Finance",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "nursing",
+                    "fullname": "Nursing",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "ecommerce_business",
+                    "fullname": "Ecommerce Business",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "accounting_and_finance",
+                    "fullname": "Accounting And Finance",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "general_management",
+                    "fullname": "General Management",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "innovation_knowledge_management",
+                    "fullname": "Innovation Knowledge Management",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "human_resource_management",
+                    "fullname": "Human Resource Management",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "biological_sciences",
+                    "fullname": "Biological Sciences",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "oil_and_gas",
+                    "fullname": "Oil And Gas",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "media_and_entertainment",
+                    "fullname": "Media And Entertainment",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "it_management",
+                    "fullname": "It Management",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "government",
+                    "fullname": "Government",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "real_estate",
+                    "fullname": "Real Estate",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "supply_chain_management",
+                    "fullname": "Supply Chain Management",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "leadership",
+                    "fullname": "Leadership",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "project_management",
+                    "fullname": "Project Management",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "logistics",
+                    "fullname": "Logistics",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "health_care_management",
+                    "fullname": "Health Care Management",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "technology_management",
+                    "fullname": "Technology Management",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "risk_management",
+                    "fullname": "Risk Management",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "information_management",
+                    "fullname": "Information Management",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "economics",
+                    "fullname": "Economics",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "organisational_behavior",
+                    "fullname": "Organisational Behavior",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "consulting",
+                    "fullname": "Consulting",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "it_telecommunications",
+                    "fullname": "It Telecommunications",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "banking_financial_services",
+                    "fullname": "Banking Financial Services",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "public_relations_management",
+                    "fullname": "Public Relations Management",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "non_profit_organisation",
+                    "fullname": "Non Profit Organisation",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "venture_capital_and_private_equity",
+                    "fullname": "Venture Capital And Private Equity",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "public_administration",
+                    "fullname": "Public Administration",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "environment",
+                    "fullname": "Environment",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "personal_development",
+                    "fullname": "Personal Development",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "public_sector",
+                    "fullname": "Public Sector",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "pharmaceutical_bio_medical",
+                    "fullname": "Pharmaceutical Bio Medical",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "education",
+                    "fullname": "Education",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                },
+                {
+                    "shortname": "retail_consumer_goods",
+                    "fullname": "Retail Consumer Goods",
+                    "specialisation": [{
+                        "shortname": "all",
+                        "fullname": "All"
+                    }]
+                }
+            ]
+        }
+    ]
+}

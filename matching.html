@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<style type="text/css">
+	input {
+		display: none;
+	}
+	.btns_bag{
+		background-color: white;
+		color: black;
+		border: 2px solid #008CBA;
+	}
+</style>
+</head>
+<body>
+
+<button type="button" onclick="btn_hover(this)" class="btn btn-default">Bachelors<input class="aaa" type="radio" name="btns"></button>
+<button type="button" onclick="btn_hover(this)" class="btn btn-default">Masters<input  class="aaa" type="radio"  name="btns"></button>
+<button type="radio" onclick="btn_hover(this)" class="btn btn-default">PHD<input class="aaa" type="radio" name="btns"></button>
+<script>
+	function btn_hover(dis){
+		$(".btns_bag").removeClass();
+		$(".aaa").removeAttr("checked");
+		$(dis).addClass("btns_bag").find(".aaa").attr("checked", "checked");
+	}
+</script>
+</body>
+</html>

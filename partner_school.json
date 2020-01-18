@@ -1,0 +1,372 @@
+[
+	{
+		"id": "7", 
+		"partner_school_name": "University of Aberdeen",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-aberdeen_592560cf2aeae70239af4a8b_large.jpg?15174750961517475096"
+	},
+	{
+		"id": "8", 
+		"partner_school_name": "University of Wales Aberystwyth",
+		"logo" : "https://files-core.qs.com/institution-logos/aberystwyth-university_8_large.jpg?1489669772"
+	},
+	{
+		"id": "42", 
+		"partner_school_name": "Bangor University",
+		"logo" : "https://files-core.qs.com/institution-logos/bangor-university_42_large.jpg?1470051258"
+	},
+	{
+		"id": "64", 
+		"partner_school_name": "Bournemouth University",
+		"logo" : "https://files-core.qs.com/institution-logos/bournemouth-university_592560cf2aeae70239af4ac4_large.jpg?15318436901531843690"
+	},
+	{
+		"id": "65", 
+		"partner_school_name": "Bradford University",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-bradford_592560cf2aeae70239af4ac5_large.jpg?15006292721500629272"
+	},
+	{
+		"id": "99", 
+		"partner_school_name": "Cardiff University",
+		"logo" : "https://files-core.qs.com/institution-logos/cardiff-university_592560cf2aeae70239af4ae6_large.jpg?15160106811516010681"
+	},
+	{
+		"id": "111", 
+		"partner_school_name": "Birmingham City University",
+		"logo" : "https://files-core.qs.com/institution-logos/birmingham-city-university-_592560cf2aeae70239af4af8_large.jpg?15175593121517559312"
+	},
+	{
+		"id": "113", 
+		"partner_school_name": "University of Central Lancashire",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-central-lancashire_113_large.jpg?1456916123"
+	},
+	{
+		"id": "145", 
+		"partner_school_name": "Coventry University",
+		"logo" : "https://files-core.qs.com/institution-logos/coventry-university_145_large.jpg?1474382747"
+	},
+	{
+		"id": "150", 
+		"partner_school_name": "Curtin University",
+		"logo" : "https://files-core.qs.com/institution-logos/curtin-university_150_large.jpg?1444315691"
+	},
+	{
+		"id": "169", 
+		"partner_school_name": "University Of Dundee",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-dundee_169_large.jpg?1443806516"
+	},
+	{
+		"id": "200", 
+		"partner_school_name": "University of Essex",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-essex_200_large.jpg?1459776322"
+	},
+	{
+		"id": "204", 
+		"partner_school_name": "University of Exeter",
+		"logo" : "https://files-core.qs.com/institution-logos/the-university-of-exeter_204_large.jpg?1495458912"
+	},
+	{
+		"id": "231", 
+		"partner_school_name": "University of Glasgow",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-glasgow_231_large.jpg?1469607593"
+	},
+	{
+		"id": "232", 
+		"partner_school_name": "University of Gloucestershire",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-gloucestershire_592560cf2aeae70239af4b6b_large.jpg?15434810011543481001"
+	},
+	{
+		"id": "315", 
+		"partner_school_name": " University of Kent",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-kent_315_large.jpg?1440607878"
+	},
+	{
+		"id": "319", 
+		"partner_school_name": "Kingston University",
+		"logo" : "https://files-core.qs.com/institution-logos/kingston-university-london_592560cf2aeae70239af4bc2_large.jpg?15283884351528388435"
+	},
+	{
+		"id": "339", 
+		"partner_school_name": "University of Leicester",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-leicester_339_large.jpg?1488216414"
+	},
+	{
+		"id": "350", 
+		"partner_school_name": "University of Liverpool",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-liverpool_350_large.jpg?1474545068"
+	},
+	{
+		"id": "354", 
+		"partner_school_name": "City University London",
+		"logo" : "https://files-core.qs.com/institution-logos/city-university-of-london_354_large.jpg?1487165338"
+	},
+	{
+		"id": "355", 
+		"partner_school_name": "Goldsmiths, University of London",
+		"logo" : "https://files-core.qs.com/institution-logos/goldsmiths-university-of-london_355_large.jpg?1490178654"
+	},
+	{
+		"id": "358", 
+		"partner_school_name": "London Metropolitan University",
+		"logo" : "https://files-core.qs.com/institution-logos/london-metropolitan-university_358_large.jpg?1473676595"
+	},
+	{
+		"id": "359", 
+		"partner_school_name": "Queen Mary University of London (QMUL)",
+		"logo" : "https://files-core.qs.com/institution-logos/queen-mary-university-of-london_359_large.jpg?1470048685"
+	},
+	{
+		"id": "368", 
+		"partner_school_name": "Loughborough University",
+		"logo" : "https://files-core.qs.com/institution-logos/loughborough-university_592560cf2aeae70239af4bf3_large.jpg?15269811901526981190"
+	},
+	{
+		"id": "404", 
+		"partner_school_name": "Middlesex University",
+		"logo" : "https://files-core.qs.com/institution-logos/middlesex-university_592560cf2aeae70239af4c19_large.jpg?15149986201514998620"
+	},
+	{
+		"id": "450", 
+		"partner_school_name": "Newcastle University",
+		"logo" : "https://files-core.qs.com/institution-logos/newcastle-university_592560cf2aeae70239af4c45_large.jpg?15469684981546968498"
+	},
+	{
+		"id": "455", 
+		"partner_school_name": "Northumbria University at Newcastle",
+		"logo" : "https://files-core.qs.com/institution-logos/northumbria-university-at-newcastle_592560cf2aeae70239af4c4b_large.jpg?15476410521547641052"
+	},
+	{
+		"id": "459", 
+		"partner_school_name": "University of Nottingham",
+		"logo" : "https://files-core.qs.com/institution-logos/the-university-of-nottingham_592560cf2aeae70239af4c4e_large.jpg?15191395501519139550"
+	},
+	{
+		"id": "477", 
+		"partner_school_name": "Oxford Brookes University",
+		"logo" : "https://files-core.qs.com/institution-logos/oxford-brookes-university_477_large.jpg?1441730801"
+	},
+	{
+		"id": "505", 
+		"partner_school_name": "University of Portsmouth",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-portsmouth_592560cf2aeae70239af4c7d_large.jpg?15133274011513327401"
+	},
+	{
+		"id": "514", 
+		"partner_school_name": "Queen's University of Belfast",
+		"logo" : "https://files-core.qs.com/institution-logos/queens-university-belfast_592560cf2aeae70239af4c86_large.jpg?15283781871528378187"
+	},
+	{
+		"id": "517", 
+		"partner_school_name": "University of Reading",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-reading_517_large.jpg?1495459602"
+	},
+	{
+		"id": "519", 
+		"partner_school_name": "Regent's University London",
+		"logo" : "https://files-core.qs.com/institution-logos/regents-university-london_592560cf2aeae70239af4c8a_large.jpg?15426154881542615488"
+	},
+	{
+		"id": "529", 
+		"partner_school_name": "Robert Gordon University",
+		"logo" : "https://files-core.qs.com/institution-logos/robert-gordon-university_529_large.jpg?1455120487"
+	},
+	{
+		"id": "534", 
+		"partner_school_name": "Royal Holloway, University of London",
+		"logo" : "https://files-core.qs.com/institution-logos/royal-holloway-university-of-london_534_large.jpg?1490358603"
+	},
+	{
+		"id": "545", 
+		"partner_school_name": "University of Salford",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-salford_592560cf2aeae70239af4ca5_large.jpg?15203386021520338602"
+	},
+	{
+		"id": "551", 
+		"partner_school_name": "University of Huddersfield",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-huddersfield_592560cf2aeae70239af4cac_large.jpg?14958042891495804289"
+	},
+	{
+		"id": "567", 
+		"partner_school_name": "University of Southampton",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-southampton_567_large.jpg?1469609938"
+	},
+	{
+		"id": "575", 
+		"partner_school_name": "University of Stirling",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-stirling_575_large.jpg?1482927931"
+	},
+	{
+		"id": "579", 
+		"partner_school_name": "University of Strathclyde",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-strathclyde_579_large.jpg?1495442408"
+	},
+	{
+		"id": "584", 
+		"partner_school_name": "University of Surrey",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-surrey_584_large.jpg?1442585801"
+	},
+	{
+		"id": "585", 
+		"partner_school_name": "University of Sussex",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-sussex_592560cf2aeae70239af4ccd_large.jpg?15136162571513616257"
+	},
+	{
+		"id": "586", 
+		"partner_school_name": "Swansea University",
+		"logo" : "https://files-core.qs.com/institution-logos/swansea-university_592560cf2aeae70239af4cce_large.jpg?15161963511516196351"
+	},
+	{
+		"id": "637", 
+		"partner_school_name": "University of East Anglia (UEA)",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-east-anglia-uea_637_large.jpg?1443168879"
+	},
+	{
+		"id": "689", 
+		"partner_school_name": "University of York",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-york_689_large.jpg?1488901719"
+	},
+	{
+		"id": "706", 
+		"partner_school_name": "University of Brighton",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-brighton_592560cf2aeae70239af4d45_large.jpg?15434850391543485039"
+	},
+	{
+		"id": "707", 
+		"partner_school_name": "University of Derby",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-derby_592560cf2aeae70239af4d46_large.jpg?15429702011542970201"
+	},
+	{
+		"id": "730", 
+		"partner_school_name": "Heriot-Watt University",
+		"logo" : "https://files-core.qs.com/institution-logos/heriot-watt-university_592560cf2aeae70239af4d5f_large.jpg?15173037461517303746"
+	},
+	{
+		"id": "796", 
+		"partner_school_name": "De Montfort University",
+		"logo" : "https://files-core.qs.com/institution-logos/de-montfort-university_592560cf2aeae70239af4d9f_large.jpg?15439135251543913525"
+	},
+	{
+		"id": "825", 
+		"partner_school_name": "Canterbury Christ Church University",
+		"logo" : "https://files-core.qs.com/institution-logos/canterbury-christ-church-university_592560cf2aeae70239af4dbc_large.jpg?15439137911543913791"
+	},
+	{
+		"id": "1626", 
+		"partner_school_name": "University of Hertfordshire",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-hertfordshire_592560cf2aeae70239af50de_large.jpg?15439153931543915393"
+	},
+	{
+		"id": "1628", 
+		"partner_school_name": "Manchester Metropolitan University",
+		"logo" : "https://files-core.qs.com/institution-logos/manchester-metropolitan-university_1628_large.jpg?1485881278"
+	},
+	{
+		"id": "1629", 
+		"partner_school_name": "Sheffield Hallam University",
+		"logo" : "https://files-core.qs.com/institution-logos/sheffield-hallam-university_592560cf2aeae70239af50e0_large.jpg?15439154911543915491"
+	},
+	{
+		"id": "1630", 
+		"partner_school_name": "London South Bank University",
+		"logo" : "https://files-core.qs.com/institution-logos/london-south-bank-university_592560cf2aeae70239af50e3_large.jpg?15190613211519061321"
+	},
+	{
+		"id": "1631", 
+		"partner_school_name": "University of Sunderland",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-sunderland_592560cf2aeae70239af50e2_large.jpg?15488598401548859840"
+	},
+	{
+		"id": "1632", 
+		"partner_school_name": "Keele University",
+		"logo" : "https://files-core.qs.com/institution-logos/keele-university-_592560cf2aeae70239af50e5_large.jpg?14960490761496049076"
+	},
+	{
+		"id": "1635", 
+		"partner_school_name": "University of the West of Scotland",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-the-west-of-scotland_592560cf2aeae70239af50e7_large.jpg?15439158431543915843"
+	},
+	{
+		"id": "1636", 
+		"partner_school_name": "Birkbeck, University of London",
+		"logo" : "https://files-core.qs.com/institution-logos/birkbeck-university-of-london_1636_large.jpg?1441832907"
+	},
+	{
+		"id": "1638", 
+		"partner_school_name": "Liverpool John Moores University",
+		"logo" : "https://files-core.qs.com/institution-logos/liverpool-john-moores-university_592560cf2aeae70239af50e9_large.jpg?15041774421504177442"
+	},
+	{
+		"id": "1640", 
+		"partner_school_name": "Staffordshire University",
+		"logo" : "https://files-core.qs.com/institution-logos/staffordshire-university_592560cf2aeae70239af50eb_large.jpg?15173916341517391634"
+	},
+	{
+		"id": "1645", 
+		"partner_school_name": "University of Greenwich",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-greenwich_592560cf2aeae70239af50f0_large.jpg?15246483581524648358"
+	},
+	{
+		"id": "1647", 
+		"partner_school_name": "Leeds Beckett University",
+		"logo" : "https://files-core.qs.com/institution-logos/leeds-beckett-university_592560cf2aeae70239af50f2_large.jpg?15465305351546530535"
+	},
+	{
+		"id": "1648", 
+		"partner_school_name": "Anglia Ruskin University",
+		"logo" : " https://files-core.qs.com/institution-logos/anglia-ruskin-university_592560cf2aeae70239af50f4_large.jpg?15439159581543915958"
+	},
+	{
+		"id": "1649", 
+		"partner_school_name": "Glasgow Caledonian University",
+		"logo" : "https://files-core.qs.com/institution-logos/glasgow-caledonian-university_1649_large.jpg?1487155116"
+	},
+	{
+		"id": "1650", 
+		"partner_school_name": "University of Bedfordshire",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-bedfordshire_592560cf2aeae70239af50fa_large.jpg?15439160261543916026"
+	},
+	{
+		"id": "1651", 
+		"partner_school_name": "University of Lincoln",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-lincoln_592560cf2aeae70239af50f6_large.jpg?15428992001542899200"
+	},
+	{
+		"id": "1656", 
+		"partner_school_name": "University of Northampton",
+		"logo" : "https://files-core.qs.com/institution-logos/the-university-of-northampton_592560cf2aeae70239af50fc_large.jpg?15027947091502794709"
+	},
+	{
+		"id": "1659", 
+		"partner_school_name": "University of Bolton",
+		"logo" : "https://files-core.qs.com/institution-logos/1659_large.jpg"
+	},
+	{
+		"id": "1663", 
+		"partner_school_name": "University of Winchester",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-winchester_592560cf2aeae70239af5102_large.jpg?15439165091543916509"
+	},
+	{
+		"id": "1669", 
+		"partner_school_name": "The University Of Chichester",
+		"logo" : "https://files-core.qs.com/institution-logos/university-of-chichester_1669_large.jpg?1450194513"
+	},
+	{
+		"id": "2106", 
+		"partner_school_name": "Buckinghamshire New University",
+		"logo" : "https://files-core.qs.com/institution-logos/buckinghamshire-new-university_592560cf2aeae70239af52be_large.jpg?15439173201543917320"
+	},
+	{
+		"id": "14171", 
+		"partner_school_name": "Edinburgh Napier University",
+		"logo" : "https://files-core.qs.com/institution-logos/edinburgh-napier-university_592560cf2aeae70239af55f5_large.jpg?15426170701542617070"
+	},
+	{
+		"id": "14537", 
+		"partner_school_name": "UCI Paul Merage School of Business",
+		"logo" : "https://files-core.qs.com/institution-logos/uci-paul-merage-school-of-business_592560cf2aeae70239af5715_large.jpg?15423816631542381663"
+	},
+	{
+		"id": "20659", 
+		"partner_school_name": "Abilene Christian University",
+		"logo" : "https://files-core.qs.com/institution-logos/abilene-christian-university_592560e09988f300e2320c0c_large.jpg?15386470261538647026"
+	}
+]

@@ -1,0 +1,110 @@
+
+Result Size: 785 x 591
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+  <style>
+  /* Make the image fully responsive */
+  .carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+  .demo-divs {
+    margin-top: 10px;
+  }
+  </style>
+</head>
+<body>
+​
+<div id="demo" class="carousel slide carousel-thumbnail" data-ride="carousel">
+​
+  
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="http://placehold.it/1600x700?text=Product+01" width="1100" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="http://placehold.it/1600x700?text=Product+02" width="1100" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="http://placehold.it/1600x700?text=Product+03" width="1100" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="http://placehold.it/1600x700?text=Product+04" width="1100" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="http://placehold.it/1600x700?text=Product+05" width="1100" height="500">
+    </div>
+  </div>
+</div>
+
+   <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>   
+
+
+
+<div class="demo-divs">
+  <div class="row">
+    <div class="col">
+      <img src="http://placehold.it/1600x700?text=Product+01" width="100%" onclick="openImg(this)" data-slide-to="0" data-target="#demo">
+    </div>
+    <div class="col">
+      <img src="http://placehold.it/1600x700?text=Product+02" width="100%" onclick="openImg(this)" data-slide-to="1" data-target="#demo">
+    </div>
+    <div class="col">
+      <img src="http://placehold.it/1600x700?text=Product+03" width="100%" onclick="openImg(this)" data-slide-to="2" data-target="#demo">
+    </div>
+    <div class="col">
+      <img src="http://placehold.it/1600x700?text=Product+04" width="100%" onclick="openImg(this)" data-slide-to="3" data-target="#demo">
+    </div>
+    <div class="col">
+      <img src="http://placehold.it/1600x700?text=Product+05" width="100%" onclick="openImg(this)" data-slide-to="4" data-target="#demo">
+
+</div>
+</div>
+
+
+​
+<script>
+  function openImg(dis) {
+   var a = $(dis).data('slide-to');
+   console.log(a);
+   $("#demo").carousel(a);
+  }
+
+
+ // $("body, html, *").mousewheel(function(event, delta) {
+ //    console.log(delta)
+ //    this.scrollLeft -= (delta);
+ // event.preventDefault();
+ //  });
+
+
+   $("body, html, *").mousewheel(function(event, delta) {
+      console.log(delta)
+      this.scrollLeft -= (delta);   
+      event.preventDefault();
+
+   });
+
+
+    
+</script>
+
+</body>
+</html>
+​

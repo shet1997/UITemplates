@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <style type="text/css">
+    .container {
+      position: relative;
+    }
+    .rose {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      font-weight: 700;
+      color: white;
+    }
+  </style>
+
+</head>
+<body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  	<button type="button" class="btn-primary" id="home_btn">home</button>
+  	<script>
+  		var mystr = "https://v.youku.com/v_show/id_XMzY1MzE5MDgwNA==.html?spm=a2h0j.11185381.listitem_page59.5!38~A&s=efbfbdda9837efbfbdef";
+
+  		var newstring = mystr.split('_');
+  		console.log(newstring);
+  		var parts = newstring[2].split('=');
+  		console.log(parts);
+  		var newparts = parts[0];
+  		console.log(newparts)
+  	</script>
+
+    <div class="container">
+      <img src="rose.jpeg" width="100%">
+      <div class="rose">Rose</div>
+    </div>
+  	
+</body>
+</html>
+
+
+

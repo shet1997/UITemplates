@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  	<style type="text/css">
+  		.popup-overlay {
+  			visibility: hidden;
+  		}
+  		.popup-content {
+  			visibility: hidden;
+  		}
+
+  		.popup-overlay.active {
+  			visibility: visible;
+  		}
+  		.popup-content.active {
+  			visibility: visible;
+  		}
+  	</style>
+</head>
+<body>
+	<div class="popup-overlay">
+		<div class="popup-content">
+			<h3>pop-up</h3>
+			<p>welcome to my first popup</p>
+			<button type="button" class="close">close</button>
+		</div>
+	</div>
+	<div class="openup">
+	<h5>popup example</h5>
+	<button type="button" class="open">open</button>
+	</div>
+	<script>
+		$(".open").on('click', function(){
+			$(".popup-overlay, .popup-content").addClass("active");
+			$(".openup").addClass("d-none");
+		});
+		$(".close").on("click", function(){
+			$(".popup-overlay, .popup-content").removeClass("active");
+			$(".openup").removeClass("d-none");
+		});
+	</script>
+</body>
+</html>
